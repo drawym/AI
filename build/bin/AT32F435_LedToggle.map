@@ -1,0 +1,1335 @@
+Archive member included to satisfy reference by file (symbol)
+
+common/libcommon.a(system_at32f435_437.c.obj)
+                              (--whole-archive)
+common/libcommon.a(startup_at32f435_437.s.obj)
+                              (--whole-archive)
+common/libcommon.a(syscalls.c.obj)
+                              (--whole-archive)
+common/libcommon.a(at32f435_437_crm.c.obj)
+                              (--whole-archive)
+common/libcommon.a(at32f435_437_gpio.c.obj)
+                              (--whole-archive)
+common/libcommon.a(at32f435_437_usart.c.obj)
+                              (--whole-archive)
+common/libcommon.a(at32f435_437_exint.c.obj)
+                              (--whole-archive)
+common/libcommon.a(at32f435_437_misc.c.obj)
+                              (--whole-archive)
+c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_truncdfsf2.o)
+                              project/CMakeFiles/AT32F435_LedToggle.elf.dir/rttview/SEGGER_RTT_printf.c.obj (__aeabi_d2f)
+c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_ldivmod.o)
+                              common/libcommon.a(system_at32f435_437.c.obj) (__aeabi_ldivmod)
+c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_uldivmod.o)
+                              common/libcommon.a(system_at32f435_437.c.obj) (__aeabi_uldivmod)
+c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
+                              c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_ldivmod.o) (__udivmoddi4)
+c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_dvmd_tls.o)
+                              c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_ldivmod.o) (__aeabi_ldiv0)
+c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-errno.o)
+                              common/libcommon.a(syscalls.c.obj) (__errno)
+c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-exit.o)
+                              c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o (exit)
+c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-impure.o)
+                              c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-exit.o) (_global_impure_ptr)
+c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-init.o)
+                              c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o (__libc_init_array)
+c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-memcpy-stub.o)
+                              project/CMakeFiles/AT32F435_LedToggle.elf.dir/rttview/SEGGER_RTT.c.obj (memcpy)
+c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-memset.o)
+                              c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o (memset)
+c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-setvbuf.o)
+                              project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/at32f435_437_board.c.obj (setvbuf)
+c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-strlen.o)
+                              project/CMakeFiles/AT32F435_LedToggle.elf.dir/rttview/SEGGER_RTT.c.obj (strlen)
+c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-fflush.o)
+                              c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-setvbuf.o) (_fflush_r)
+c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-findfp.o)
+                              c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-setvbuf.o) (__sinit)
+c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-fwalk.o)
+                              c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-findfp.o) (_fwalk)
+c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-lock.o)
+                              c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-findfp.o) (__retarget_lock_init_recursive)
+c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-makebuf.o)
+                              c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-setvbuf.o) (__swhatbuf_r)
+c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-malloc.o)
+                              c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-setvbuf.o) (malloc)
+c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-nano-freer.o)
+                              c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-setvbuf.o) (_free_r)
+c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-nano-mallocr.o)
+                              c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-findfp.o) (_malloc_r)
+c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-sbrkr.o)
+                              c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-nano-mallocr.o) (_sbrk_r)
+c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-stdio.o)
+                              c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-findfp.o) (__sread)
+c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-writer.o)
+                              c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-stdio.o) (_write_r)
+c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-closer.o)
+                              c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-stdio.o) (_close_r)
+c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-fstatr.o)
+                              c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-makebuf.o) (_fstat_r)
+c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-isattyr.o)
+                              c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-makebuf.o) (_isatty_r)
+c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-lseekr.o)
+                              c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-stdio.o) (_lseek_r)
+c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-mlock.o)
+                              c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-nano-freer.o) (__malloc_lock)
+c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-readr.o)
+                              c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-stdio.o) (_read_r)
+c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-reent.o)
+                              c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-sbrkr.o) (errno)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crti.o
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crti.o
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crti.o
+ .data          0x00000000        0x4 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .rodata        0x00000000       0x24 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .text          0x00000000       0x7c c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .ARM.extab     0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .ARM.exidx     0x00000000       0x10 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .ARM.attributes
+                0x00000000       0x1c c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .text          0x00000000        0x0 project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/main.c.obj
+ .data          0x00000000        0x0 project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/main.c.obj
+ .bss           0x00000000        0x0 project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/main.c.obj
+ .text          0x00000000        0x0 project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/at32f435_437_board.c.obj
+ .data          0x00000000        0x0 project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/at32f435_437_board.c.obj
+ .bss           0x00000000        0x0 project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/at32f435_437_board.c.obj
+ .text.__io_putchar
+                0x00000000       0x30 project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/at32f435_437_board.c.obj
+ .text._write   0x00000000       0x3c project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/at32f435_437_board.c.obj
+ .text.uart_print_init
+                0x00000000       0x80 project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/at32f435_437_board.c.obj
+ .text.at32_button_init
+                0x00000000       0x34 project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/at32f435_437_board.c.obj
+ .text.at32_button_state
+                0x00000000        0xc project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/at32f435_437_board.c.obj
+ .text.at32_button_press
+                0x00000000       0x7c project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/at32f435_437_board.c.obj
+ .text.at32_led_init
+                0x00000000       0x44 project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/at32f435_437_board.c.obj
+ .text.at32_led_on
+                0x00000000       0x20 project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/at32f435_437_board.c.obj
+ .text.at32_led_off
+                0x00000000       0x20 project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/at32f435_437_board.c.obj
+ .text.delay_init
+                0x00000000       0x38 project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/at32f435_437_board.c.obj
+ .text.delay_us
+                0x00000000       0x38 project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/at32f435_437_board.c.obj
+ .text.delay_sec
+                0x00000000       0xa8 project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/at32f435_437_board.c.obj
+ .data.pressed.0
+                0x00000000        0x1 project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/at32f435_437_board.c.obj
+ .text          0x00000000        0x0 project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/at32f435_437_clock.c.obj
+ .data          0x00000000        0x0 project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/at32f435_437_clock.c.obj
+ .bss           0x00000000        0x0 project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/at32f435_437_clock.c.obj
+ .text          0x00000000        0x0 project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/at32f435_437_int.c.obj
+ .data          0x00000000        0x0 project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/at32f435_437_int.c.obj
+ .bss           0x00000000        0x0 project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/at32f435_437_int.c.obj
+ .text          0x00000000        0x0 project/CMakeFiles/AT32F435_LedToggle.elf.dir/rttview/SEGGER_RTT.c.obj
+ .data          0x00000000        0x0 project/CMakeFiles/AT32F435_LedToggle.elf.dir/rttview/SEGGER_RTT.c.obj
+ .bss           0x00000000        0x0 project/CMakeFiles/AT32F435_LedToggle.elf.dir/rttview/SEGGER_RTT.c.obj
+ .rodata.SEGGER_RTT_ReadUpBufferNoLock.str1.4
+                0x00000000       0x17 project/CMakeFiles/AT32F435_LedToggle.elf.dir/rttview/SEGGER_RTT.c.obj
+ .text.SEGGER_RTT_ReadUpBufferNoLock
+                0x00000000      0x12c project/CMakeFiles/AT32F435_LedToggle.elf.dir/rttview/SEGGER_RTT.c.obj
+ .text.SEGGER_RTT_ReadNoLock
+                0x00000000      0x118 project/CMakeFiles/AT32F435_LedToggle.elf.dir/rttview/SEGGER_RTT.c.obj
+ .text.SEGGER_RTT_ReadUpBuffer
+                0x00000000      0x138 project/CMakeFiles/AT32F435_LedToggle.elf.dir/rttview/SEGGER_RTT.c.obj
+ .text.SEGGER_RTT_Read
+                0x00000000      0x120 project/CMakeFiles/AT32F435_LedToggle.elf.dir/rttview/SEGGER_RTT.c.obj
+ .text.SEGGER_RTT_WriteWithOverwriteNoLock
+                0x00000000       0xdc project/CMakeFiles/AT32F435_LedToggle.elf.dir/rttview/SEGGER_RTT.c.obj
+ .text.SEGGER_RTT_WriteDownBufferNoLock
+                0x00000000      0x14c project/CMakeFiles/AT32F435_LedToggle.elf.dir/rttview/SEGGER_RTT.c.obj
+ .text.SEGGER_RTT_WriteNoLock
+                0x00000000      0x1cc project/CMakeFiles/AT32F435_LedToggle.elf.dir/rttview/SEGGER_RTT.c.obj
+ .text.SEGGER_RTT_WriteDownBuffer
+                0x00000000      0x1e8 project/CMakeFiles/AT32F435_LedToggle.elf.dir/rttview/SEGGER_RTT.c.obj
+ .text.SEGGER_RTT_Write
+                0x00000000      0x268 project/CMakeFiles/AT32F435_LedToggle.elf.dir/rttview/SEGGER_RTT.c.obj
+ .text.SEGGER_RTT_WriteString
+                0x00000000      0x270 project/CMakeFiles/AT32F435_LedToggle.elf.dir/rttview/SEGGER_RTT.c.obj
+ .text.SEGGER_RTT_PutCharSkipNoLock
+                0x00000000       0x44 project/CMakeFiles/AT32F435_LedToggle.elf.dir/rttview/SEGGER_RTT.c.obj
+ .text.SEGGER_RTT_PutCharSkip
+                0x00000000       0xc4 project/CMakeFiles/AT32F435_LedToggle.elf.dir/rttview/SEGGER_RTT.c.obj
+ .text.SEGGER_RTT_PutChar
+                0x00000000       0xe4 project/CMakeFiles/AT32F435_LedToggle.elf.dir/rttview/SEGGER_RTT.c.obj
+ .text.SEGGER_RTT_GetKey
+                0x00000000      0x118 project/CMakeFiles/AT32F435_LedToggle.elf.dir/rttview/SEGGER_RTT.c.obj
+ .text.SEGGER_RTT_WaitKey
+                0x00000000      0x128 project/CMakeFiles/AT32F435_LedToggle.elf.dir/rttview/SEGGER_RTT.c.obj
+ .text.SEGGER_RTT_HasKey
+                0x00000000       0x88 project/CMakeFiles/AT32F435_LedToggle.elf.dir/rttview/SEGGER_RTT.c.obj
+ .text.SEGGER_RTT_HasData
+                0x00000000       0x18 project/CMakeFiles/AT32F435_LedToggle.elf.dir/rttview/SEGGER_RTT.c.obj
+ .text.SEGGER_RTT_HasDataUp
+                0x00000000       0x18 project/CMakeFiles/AT32F435_LedToggle.elf.dir/rttview/SEGGER_RTT.c.obj
+ .text.SEGGER_RTT_AllocDownBuffer
+                0x00000000       0xdc project/CMakeFiles/AT32F435_LedToggle.elf.dir/rttview/SEGGER_RTT.c.obj
+ .text.SEGGER_RTT_AllocUpBuffer
+                0x00000000       0xec project/CMakeFiles/AT32F435_LedToggle.elf.dir/rttview/SEGGER_RTT.c.obj
+ .text.SEGGER_RTT_ConfigUpBuffer
+                0x00000000       0xc8 project/CMakeFiles/AT32F435_LedToggle.elf.dir/rttview/SEGGER_RTT.c.obj
+ .text.SEGGER_RTT_ConfigDownBuffer
+                0x00000000       0xc0 project/CMakeFiles/AT32F435_LedToggle.elf.dir/rttview/SEGGER_RTT.c.obj
+ .text.SEGGER_RTT_SetNameUpBuffer
+                0x00000000       0xa0 project/CMakeFiles/AT32F435_LedToggle.elf.dir/rttview/SEGGER_RTT.c.obj
+ .text.SEGGER_RTT_SetNameDownBuffer
+                0x00000000       0xa0 project/CMakeFiles/AT32F435_LedToggle.elf.dir/rttview/SEGGER_RTT.c.obj
+ .text.SEGGER_RTT_SetFlagsUpBuffer
+                0x00000000       0xa0 project/CMakeFiles/AT32F435_LedToggle.elf.dir/rttview/SEGGER_RTT.c.obj
+ .text.SEGGER_RTT_SetFlagsDownBuffer
+                0x00000000       0xa0 project/CMakeFiles/AT32F435_LedToggle.elf.dir/rttview/SEGGER_RTT.c.obj
+ .text.SEGGER_RTT_Init
+                0x00000000       0x70 project/CMakeFiles/AT32F435_LedToggle.elf.dir/rttview/SEGGER_RTT.c.obj
+ .text.SEGGER_RTT_SetTerminal
+                0x00000000      0x190 project/CMakeFiles/AT32F435_LedToggle.elf.dir/rttview/SEGGER_RTT.c.obj
+ .text.SEGGER_RTT_TerminalOut
+                0x00000000      0x4f0 project/CMakeFiles/AT32F435_LedToggle.elf.dir/rttview/SEGGER_RTT.c.obj
+ .text.SEGGER_RTT_GetAvailWriteSpace
+                0x00000000       0x20 project/CMakeFiles/AT32F435_LedToggle.elf.dir/rttview/SEGGER_RTT.c.obj
+ .text.SEGGER_RTT_GetBytesInBuffer
+                0x00000000       0x20 project/CMakeFiles/AT32F435_LedToggle.elf.dir/rttview/SEGGER_RTT.c.obj
+ .bss._ActiveTerminal
+                0x00000000        0x1 project/CMakeFiles/AT32F435_LedToggle.elf.dir/rttview/SEGGER_RTT.c.obj
+ .bss._SEGGER_RTT
+                0x00000000       0xa8 project/CMakeFiles/AT32F435_LedToggle.elf.dir/rttview/SEGGER_RTT.c.obj
+ .bss._acDownBuffer
+                0x00000000       0x10 project/CMakeFiles/AT32F435_LedToggle.elf.dir/rttview/SEGGER_RTT.c.obj
+ .bss._acUpBuffer
+                0x00000000      0x400 project/CMakeFiles/AT32F435_LedToggle.elf.dir/rttview/SEGGER_RTT.c.obj
+ .rodata._aTerminalId
+                0x00000000       0x10 project/CMakeFiles/AT32F435_LedToggle.elf.dir/rttview/SEGGER_RTT.c.obj
+ .debug_info    0x00000000     0x3a0a project/CMakeFiles/AT32F435_LedToggle.elf.dir/rttview/SEGGER_RTT.c.obj
+ .debug_abbrev  0x00000000      0x351 project/CMakeFiles/AT32F435_LedToggle.elf.dir/rttview/SEGGER_RTT.c.obj
+ .debug_loc     0x00000000     0x7eaa project/CMakeFiles/AT32F435_LedToggle.elf.dir/rttview/SEGGER_RTT.c.obj
+ .debug_aranges
+                0x00000000      0x110 project/CMakeFiles/AT32F435_LedToggle.elf.dir/rttview/SEGGER_RTT.c.obj
+ .debug_ranges  0x00000000      0xd78 project/CMakeFiles/AT32F435_LedToggle.elf.dir/rttview/SEGGER_RTT.c.obj
+ .debug_line    0x00000000     0x3e03 project/CMakeFiles/AT32F435_LedToggle.elf.dir/rttview/SEGGER_RTT.c.obj
+ .debug_str     0x00000000      0x6a3 project/CMakeFiles/AT32F435_LedToggle.elf.dir/rttview/SEGGER_RTT.c.obj
+ .comment       0x00000000       0x4a project/CMakeFiles/AT32F435_LedToggle.elf.dir/rttview/SEGGER_RTT.c.obj
+ .debug_frame   0x00000000      0x4b4 project/CMakeFiles/AT32F435_LedToggle.elf.dir/rttview/SEGGER_RTT.c.obj
+ .ARM.attributes
+                0x00000000       0x34 project/CMakeFiles/AT32F435_LedToggle.elf.dir/rttview/SEGGER_RTT.c.obj
+ .text          0x00000000        0x0 project/CMakeFiles/AT32F435_LedToggle.elf.dir/rttview/SEGGER_RTT_printf.c.obj
+ .data          0x00000000        0x0 project/CMakeFiles/AT32F435_LedToggle.elf.dir/rttview/SEGGER_RTT_printf.c.obj
+ .bss           0x00000000        0x0 project/CMakeFiles/AT32F435_LedToggle.elf.dir/rttview/SEGGER_RTT_printf.c.obj
+ .text._PrintUnsigned
+                0x00000000      0x1a4 project/CMakeFiles/AT32F435_LedToggle.elf.dir/rttview/SEGGER_RTT_printf.c.obj
+ .text.SEGGER_RTT_vprintf
+                0x00000000      0x6fc project/CMakeFiles/AT32F435_LedToggle.elf.dir/rttview/SEGGER_RTT_printf.c.obj
+ .text.SEGGER_RTT_printf
+                0x00000000       0x20 project/CMakeFiles/AT32F435_LedToggle.elf.dir/rttview/SEGGER_RTT_printf.c.obj
+ .rodata._aV2C.0
+                0x00000000       0x10 project/CMakeFiles/AT32F435_LedToggle.elf.dir/rttview/SEGGER_RTT_printf.c.obj
+ .debug_info    0x00000000      0xccd project/CMakeFiles/AT32F435_LedToggle.elf.dir/rttview/SEGGER_RTT_printf.c.obj
+ .debug_abbrev  0x00000000      0x2ec project/CMakeFiles/AT32F435_LedToggle.elf.dir/rttview/SEGGER_RTT_printf.c.obj
+ .debug_loc     0x00000000     0x1720 project/CMakeFiles/AT32F435_LedToggle.elf.dir/rttview/SEGGER_RTT_printf.c.obj
+ .debug_aranges
+                0x00000000       0x30 project/CMakeFiles/AT32F435_LedToggle.elf.dir/rttview/SEGGER_RTT_printf.c.obj
+ .debug_ranges  0x00000000      0x4c0 project/CMakeFiles/AT32F435_LedToggle.elf.dir/rttview/SEGGER_RTT_printf.c.obj
+ .debug_line    0x00000000      0xf74 project/CMakeFiles/AT32F435_LedToggle.elf.dir/rttview/SEGGER_RTT_printf.c.obj
+ .debug_str     0x00000000      0x33a project/CMakeFiles/AT32F435_LedToggle.elf.dir/rttview/SEGGER_RTT_printf.c.obj
+ .comment       0x00000000       0x4a project/CMakeFiles/AT32F435_LedToggle.elf.dir/rttview/SEGGER_RTT_printf.c.obj
+ .debug_frame   0x00000000       0xc4 project/CMakeFiles/AT32F435_LedToggle.elf.dir/rttview/SEGGER_RTT_printf.c.obj
+ .ARM.attributes
+                0x00000000       0x34 project/CMakeFiles/AT32F435_LedToggle.elf.dir/rttview/SEGGER_RTT_printf.c.obj
+ .text          0x00000000        0x0 common/libcommon.a(system_at32f435_437.c.obj)
+ .data          0x00000000        0x0 common/libcommon.a(system_at32f435_437.c.obj)
+ .bss           0x00000000        0x0 common/libcommon.a(system_at32f435_437.c.obj)
+ .text          0x00000000       0x14 common/libcommon.a(startup_at32f435_437.s.obj)
+ .data          0x00000000        0x0 common/libcommon.a(startup_at32f435_437.s.obj)
+ .bss           0x00000000        0x0 common/libcommon.a(startup_at32f435_437.s.obj)
+ .text          0x00000000        0x0 common/libcommon.a(syscalls.c.obj)
+ .data          0x00000000        0x0 common/libcommon.a(syscalls.c.obj)
+ .bss           0x00000000        0x0 common/libcommon.a(syscalls.c.obj)
+ .text._sbrk    0x00000000       0x3c common/libcommon.a(syscalls.c.obj)
+ .text._close   0x00000000        0x8 common/libcommon.a(syscalls.c.obj)
+ .text._fstat   0x00000000        0xc common/libcommon.a(syscalls.c.obj)
+ .text._isatty  0x00000000        0x4 common/libcommon.a(syscalls.c.obj)
+ .text._lseek   0x00000000        0x4 common/libcommon.a(syscalls.c.obj)
+ .text._read    0x00000000        0x4 common/libcommon.a(syscalls.c.obj)
+ .text._exit    0x00000000        0x4 common/libcommon.a(syscalls.c.obj)
+ .text._kill    0x00000000       0x10 common/libcommon.a(syscalls.c.obj)
+ .text._getpid  0x00000000        0x4 common/libcommon.a(syscalls.c.obj)
+ .bss.heap_ptr  0x00000000        0x4 common/libcommon.a(syscalls.c.obj)
+ .debug_info    0x00000000      0x4e9 common/libcommon.a(syscalls.c.obj)
+ .debug_abbrev  0x00000000      0x165 common/libcommon.a(syscalls.c.obj)
+ .debug_loc     0x00000000      0x19e common/libcommon.a(syscalls.c.obj)
+ .debug_aranges
+                0x00000000       0x60 common/libcommon.a(syscalls.c.obj)
+ .debug_ranges  0x00000000       0x50 common/libcommon.a(syscalls.c.obj)
+ .debug_line    0x00000000      0x29a common/libcommon.a(syscalls.c.obj)
+ .debug_str     0x00000000      0x369 common/libcommon.a(syscalls.c.obj)
+ .comment       0x00000000       0x4a common/libcommon.a(syscalls.c.obj)
+ .debug_frame   0x00000000       0xb0 common/libcommon.a(syscalls.c.obj)
+ .ARM.attributes
+                0x00000000       0x34 common/libcommon.a(syscalls.c.obj)
+ .text          0x00000000        0x0 common/libcommon.a(at32f435_437_crm.c.obj)
+ .data          0x00000000        0x0 common/libcommon.a(at32f435_437_crm.c.obj)
+ .bss           0x00000000        0x0 common/libcommon.a(at32f435_437_crm.c.obj)
+ .text.crm_lext_bypass
+                0x00000000       0x10 common/libcommon.a(at32f435_437_crm.c.obj)
+ .text.crm_hext_bypass
+                0x00000000       0x10 common/libcommon.a(at32f435_437_crm.c.obj)
+ .text.crm_interrupt_flag_get
+                0x00000000       0x94 common/libcommon.a(at32f435_437_crm.c.obj)
+ .text.crm_hick_clock_trimming_set
+                0x00000000       0x10 common/libcommon.a(at32f435_437_crm.c.obj)
+ .text.crm_hick_clock_calibration_set
+                0x00000000       0x2c common/libcommon.a(at32f435_437_crm.c.obj)
+ .text.crm_periph_reset
+                0x00000000       0x2c common/libcommon.a(at32f435_437_crm.c.obj)
+ .text.crm_periph_lowpower_mode_enable
+                0x00000000       0x2c common/libcommon.a(at32f435_437_crm.c.obj)
+ .text.crm_flag_clear
+                0x00000000       0x98 common/libcommon.a(at32f435_437_crm.c.obj)
+ .text.crm_ertc_clock_select
+                0x00000000       0x1c common/libcommon.a(at32f435_437_crm.c.obj)
+ .text.crm_ertc_clock_enable
+                0x00000000       0x10 common/libcommon.a(at32f435_437_crm.c.obj)
+ .text.crm_usb_clock_div_set
+                0x00000000       0x14 common/libcommon.a(at32f435_437_crm.c.obj)
+ .text.crm_clock_failure_detection_enable
+                0x00000000       0x10 common/libcommon.a(at32f435_437_crm.c.obj)
+ .text.crm_battery_powered_domain_reset
+                0x00000000       0x10 common/libcommon.a(at32f435_437_crm.c.obj)
+ .text.crm_hick_divider_select
+                0x00000000       0x14 common/libcommon.a(at32f435_437_crm.c.obj)
+ .text.crm_hick_sclk_frequency_select
+                0x00000000       0x20 common/libcommon.a(at32f435_437_crm.c.obj)
+ .text.crm_usb_clock_source_select
+                0x00000000       0x34 common/libcommon.a(at32f435_437_crm.c.obj)
+ .text.crm_clkout_to_tmr10_enable
+                0x00000000       0x14 common/libcommon.a(at32f435_437_crm.c.obj)
+ .text.crm_clocks_freq_get
+                0x00000000       0xdc common/libcommon.a(at32f435_437_crm.c.obj)
+ .text.crm_clock_out1_set
+                0x00000000       0x10 common/libcommon.a(at32f435_437_crm.c.obj)
+ .text.crm_clock_out2_set
+                0x00000000       0x2c common/libcommon.a(at32f435_437_crm.c.obj)
+ .text.crm_clkout_div_set
+                0x00000000       0x34 common/libcommon.a(at32f435_437_crm.c.obj)
+ .text.crm_emac_output_pulse_set
+                0x00000000       0x14 common/libcommon.a(at32f435_437_crm.c.obj)
+ .text.crm_interrupt_enable
+                0x00000000       0x18 common/libcommon.a(at32f435_437_crm.c.obj)
+ .text.crm_pll_parameter_calculate
+                0x00000000       0xb0 common/libcommon.a(at32f435_437_crm.c.obj)
+ .rodata.ahb_apb1_div_table.1
+                0x00000000        0x8 common/libcommon.a(at32f435_437_crm.c.obj)
+ .rodata.pll_fr_table.3
+                0x00000000        0x6 common/libcommon.a(at32f435_437_crm.c.obj)
+ .rodata.sclk_ahb_div_table.2
+                0x00000000       0x10 common/libcommon.a(at32f435_437_crm.c.obj)
+ .text          0x00000000        0x0 common/libcommon.a(at32f435_437_gpio.c.obj)
+ .data          0x00000000        0x0 common/libcommon.a(at32f435_437_gpio.c.obj)
+ .bss           0x00000000        0x0 common/libcommon.a(at32f435_437_gpio.c.obj)
+ .text.gpio_reset
+                0x00000000      0x114 common/libcommon.a(at32f435_437_gpio.c.obj)
+ .text.gpio_input_data_bit_read
+                0x00000000       0x10 common/libcommon.a(at32f435_437_gpio.c.obj)
+ .text.gpio_input_data_read
+                0x00000000        0x8 common/libcommon.a(at32f435_437_gpio.c.obj)
+ .text.gpio_output_data_bit_read
+                0x00000000        0xc common/libcommon.a(at32f435_437_gpio.c.obj)
+ .text.gpio_output_data_read
+                0x00000000        0x8 common/libcommon.a(at32f435_437_gpio.c.obj)
+ .text.gpio_bits_set
+                0x00000000        0x4 common/libcommon.a(at32f435_437_gpio.c.obj)
+ .text.gpio_bits_reset
+                0x00000000        0x4 common/libcommon.a(at32f435_437_gpio.c.obj)
+ .text.gpio_bits_write
+                0x00000000        0xc common/libcommon.a(at32f435_437_gpio.c.obj)
+ .text.gpio_port_write
+                0x00000000        0x4 common/libcommon.a(at32f435_437_gpio.c.obj)
+ .text.gpio_pin_wp_config
+                0x00000000       0x10 common/libcommon.a(at32f435_437_gpio.c.obj)
+ .text.gpio_pins_huge_driven_config
+                0x00000000       0x14 common/libcommon.a(at32f435_437_gpio.c.obj)
+ .text.gpio_pin_mux_config
+                0x00000000       0x40 common/libcommon.a(at32f435_437_gpio.c.obj)
+ .text          0x00000000        0x0 common/libcommon.a(at32f435_437_usart.c.obj)
+ .data          0x00000000        0x0 common/libcommon.a(at32f435_437_usart.c.obj)
+ .bss           0x00000000        0x0 common/libcommon.a(at32f435_437_usart.c.obj)
+ .text.usart_reset
+                0x00000000      0x114 common/libcommon.a(at32f435_437_usart.c.obj)
+ .text.usart_init
+                0x00000000       0x94 common/libcommon.a(at32f435_437_usart.c.obj)
+ .text.usart_parity_selection_config
+                0x00000000       0x40 common/libcommon.a(at32f435_437_usart.c.obj)
+ .text.usart_enable
+                0x00000000        0xc common/libcommon.a(at32f435_437_usart.c.obj)
+ .text.usart_transmitter_enable
+                0x00000000        0xc common/libcommon.a(at32f435_437_usart.c.obj)
+ .text.usart_receiver_enable
+                0x00000000        0xc common/libcommon.a(at32f435_437_usart.c.obj)
+ .text.usart_clock_config
+                0x00000000       0x20 common/libcommon.a(at32f435_437_usart.c.obj)
+ .text.usart_clock_enable
+                0x00000000        0xc common/libcommon.a(at32f435_437_usart.c.obj)
+ .text.usart_interrupt_enable
+                0x00000000       0x34 common/libcommon.a(at32f435_437_usart.c.obj)
+ .text.usart_dma_transmitter_enable
+                0x00000000        0xc common/libcommon.a(at32f435_437_usart.c.obj)
+ .text.usart_dma_receiver_enable
+                0x00000000        0xc common/libcommon.a(at32f435_437_usart.c.obj)
+ .text.usart_wakeup_id_set
+                0x00000000       0x20 common/libcommon.a(at32f435_437_usart.c.obj)
+ .text.usart_wakeup_mode_set
+                0x00000000        0xc common/libcommon.a(at32f435_437_usart.c.obj)
+ .text.usart_receiver_mute_enable
+                0x00000000        0xc common/libcommon.a(at32f435_437_usart.c.obj)
+ .text.usart_break_bit_num_set
+                0x00000000        0xc common/libcommon.a(at32f435_437_usart.c.obj)
+ .text.usart_lin_mode_enable
+                0x00000000        0xc common/libcommon.a(at32f435_437_usart.c.obj)
+ .text.usart_data_transmit
+                0x00000000        0x8 common/libcommon.a(at32f435_437_usart.c.obj)
+ .text.usart_data_receive
+                0x00000000        0x8 common/libcommon.a(at32f435_437_usart.c.obj)
+ .text.usart_break_send
+                0x00000000        0xc common/libcommon.a(at32f435_437_usart.c.obj)
+ .text.usart_smartcard_guard_time_set
+                0x00000000        0xc common/libcommon.a(at32f435_437_usart.c.obj)
+ .text.usart_irda_smartcard_division_set
+                0x00000000        0xc common/libcommon.a(at32f435_437_usart.c.obj)
+ .text.usart_smartcard_mode_enable
+                0x00000000        0xc common/libcommon.a(at32f435_437_usart.c.obj)
+ .text.usart_smartcard_nack_set
+                0x00000000        0xc common/libcommon.a(at32f435_437_usart.c.obj)
+ .text.usart_single_line_halfduplex_select
+                0x00000000        0xc common/libcommon.a(at32f435_437_usart.c.obj)
+ .text.usart_irda_mode_enable
+                0x00000000        0xc common/libcommon.a(at32f435_437_usart.c.obj)
+ .text.usart_irda_low_power_enable
+                0x00000000        0xc common/libcommon.a(at32f435_437_usart.c.obj)
+ .text.usart_hardware_flow_control_set
+                0x00000000       0x58 common/libcommon.a(at32f435_437_usart.c.obj)
+ .text.usart_flag_get
+                0x00000000        0xc common/libcommon.a(at32f435_437_usart.c.obj)
+ .text.usart_interrupt_flag_get
+                0x00000000       0xbc common/libcommon.a(at32f435_437_usart.c.obj)
+ .text.usart_flag_clear
+                0x00000000       0x10 common/libcommon.a(at32f435_437_usart.c.obj)
+ .text.usart_rs485_delay_time_config
+                0x00000000       0x14 common/libcommon.a(at32f435_437_usart.c.obj)
+ .text.usart_transmit_receive_pin_swap
+                0x00000000        0xc common/libcommon.a(at32f435_437_usart.c.obj)
+ .text.usart_id_bit_num_set
+                0x00000000        0xc common/libcommon.a(at32f435_437_usart.c.obj)
+ .text.usart_de_polarity_set
+                0x00000000        0xc common/libcommon.a(at32f435_437_usart.c.obj)
+ .text.usart_rs485_mode_enable
+                0x00000000        0xc common/libcommon.a(at32f435_437_usart.c.obj)
+ .debug_info    0x00000000     0x153a common/libcommon.a(at32f435_437_usart.c.obj)
+ .debug_abbrev  0x00000000      0x2a6 common/libcommon.a(at32f435_437_usart.c.obj)
+ .debug_loc     0x00000000      0x535 common/libcommon.a(at32f435_437_usart.c.obj)
+ .debug_aranges
+                0x00000000      0x130 common/libcommon.a(at32f435_437_usart.c.obj)
+ .debug_ranges  0x00000000      0x120 common/libcommon.a(at32f435_437_usart.c.obj)
+ .debug_line    0x00000000      0x8c7 common/libcommon.a(at32f435_437_usart.c.obj)
+ .debug_str     0x00000000     0x10c0 common/libcommon.a(at32f435_437_usart.c.obj)
+ .comment       0x00000000       0x4a common/libcommon.a(at32f435_437_usart.c.obj)
+ .debug_frame   0x00000000      0x2a8 common/libcommon.a(at32f435_437_usart.c.obj)
+ .ARM.attributes
+                0x00000000       0x34 common/libcommon.a(at32f435_437_usart.c.obj)
+ .text          0x00000000        0x0 common/libcommon.a(at32f435_437_exint.c.obj)
+ .data          0x00000000        0x0 common/libcommon.a(at32f435_437_exint.c.obj)
+ .bss           0x00000000        0x0 common/libcommon.a(at32f435_437_exint.c.obj)
+ .text.exint_reset
+                0x00000000       0x1c common/libcommon.a(at32f435_437_exint.c.obj)
+ .text.exint_default_para_init
+                0x00000000        0xc common/libcommon.a(at32f435_437_exint.c.obj)
+ .text.exint_init
+                0x00000000       0x68 common/libcommon.a(at32f435_437_exint.c.obj)
+ .text.exint_flag_clear
+                0x00000000        0xc common/libcommon.a(at32f435_437_exint.c.obj)
+ .text.exint_flag_get
+                0x00000000       0x14 common/libcommon.a(at32f435_437_exint.c.obj)
+ .text.exint_interrupt_flag_get
+                0x00000000       0x18 common/libcommon.a(at32f435_437_exint.c.obj)
+ .text.exint_software_interrupt_event_generate
+                0x00000000       0x10 common/libcommon.a(at32f435_437_exint.c.obj)
+ .text.exint_interrupt_enable
+                0x00000000       0x18 common/libcommon.a(at32f435_437_exint.c.obj)
+ .text.exint_event_enable
+                0x00000000       0x18 common/libcommon.a(at32f435_437_exint.c.obj)
+ .debug_info    0x00000000      0x57f common/libcommon.a(at32f435_437_exint.c.obj)
+ .debug_abbrev  0x00000000      0x192 common/libcommon.a(at32f435_437_exint.c.obj)
+ .debug_loc     0x00000000      0x1cd common/libcommon.a(at32f435_437_exint.c.obj)
+ .debug_aranges
+                0x00000000       0x60 common/libcommon.a(at32f435_437_exint.c.obj)
+ .debug_ranges  0x00000000       0x50 common/libcommon.a(at32f435_437_exint.c.obj)
+ .debug_line    0x00000000      0x36c common/libcommon.a(at32f435_437_exint.c.obj)
+ .debug_str     0x00000000      0x469 common/libcommon.a(at32f435_437_exint.c.obj)
+ .comment       0x00000000       0x4a common/libcommon.a(at32f435_437_exint.c.obj)
+ .debug_frame   0x00000000       0xb0 common/libcommon.a(at32f435_437_exint.c.obj)
+ .ARM.attributes
+                0x00000000       0x34 common/libcommon.a(at32f435_437_exint.c.obj)
+ .text          0x00000000        0x0 common/libcommon.a(at32f435_437_misc.c.obj)
+ .data          0x00000000        0x0 common/libcommon.a(at32f435_437_misc.c.obj)
+ .bss           0x00000000        0x0 common/libcommon.a(at32f435_437_misc.c.obj)
+ .text.nvic_system_reset
+                0x00000000       0x24 common/libcommon.a(at32f435_437_misc.c.obj)
+ .text.nvic_irq_enable
+                0x00000000       0x8c common/libcommon.a(at32f435_437_misc.c.obj)
+ .text.nvic_irq_disable
+                0x00000000       0x28 common/libcommon.a(at32f435_437_misc.c.obj)
+ .text.nvic_priority_group_config
+                0x00000000       0x24 common/libcommon.a(at32f435_437_misc.c.obj)
+ .text.nvic_vector_table_set
+                0x00000000       0x14 common/libcommon.a(at32f435_437_misc.c.obj)
+ .text.nvic_lowpower_mode_config
+                0x00000000       0x1c common/libcommon.a(at32f435_437_misc.c.obj)
+ .text          0x00000000       0xa0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_truncdfsf2.o)
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_truncdfsf2.o)
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_truncdfsf2.o)
+ .debug_frame   0x00000000       0x24 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_truncdfsf2.o)
+ .ARM.attributes
+                0x00000000       0x1e c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_truncdfsf2.o)
+ .text          0x00000000       0xa0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_ldivmod.o)
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_ldivmod.o)
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_ldivmod.o)
+ .debug_frame   0x00000000       0x44 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_ldivmod.o)
+ .ARM.attributes
+                0x00000000       0x1e c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_ldivmod.o)
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_uldivmod.o)
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_uldivmod.o)
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
+ .ARM.extab     0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_dvmd_tls.o)
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_dvmd_tls.o)
+ .text          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-errno.o)
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-errno.o)
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-errno.o)
+ .text.__errno  0x00000000        0xc c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-errno.o)
+ .debug_frame   0x00000000       0x20 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-errno.o)
+ .ARM.attributes
+                0x00000000       0x34 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-errno.o)
+ .text          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-exit.o)
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-exit.o)
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-exit.o)
+ .text.exit     0x00000000       0x28 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-exit.o)
+ .debug_frame   0x00000000       0x28 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-exit.o)
+ .ARM.attributes
+                0x00000000       0x34 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-exit.o)
+ .text          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-impure.o)
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x00000000        0x4 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-impure.o)
+ .data.impure_data
+                0x00000000       0x60 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-impure.o)
+ .rodata._global_impure_ptr
+                0x00000000        0x4 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-impure.o)
+ .ARM.attributes
+                0x00000000       0x34 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-impure.o)
+ .text          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-init.o)
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-init.o)
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-init.o)
+ .text          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-memcpy-stub.o)
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-memcpy-stub.o)
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-memcpy-stub.o)
+ .text.memcpy   0x00000000       0x1c c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-memcpy-stub.o)
+ .debug_frame   0x00000000       0x28 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-memcpy-stub.o)
+ .ARM.attributes
+                0x00000000       0x34 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-memcpy-stub.o)
+ .text          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-memset.o)
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-memset.o)
+ .text.memset   0x00000000       0x10 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-memset.o)
+ .debug_frame   0x00000000       0x20 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-memset.o)
+ .ARM.attributes
+                0x00000000       0x34 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-memset.o)
+ .text          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-setvbuf.o)
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-setvbuf.o)
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-setvbuf.o)
+ .text.setvbuf  0x00000000      0x18c c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-setvbuf.o)
+ .debug_frame   0x00000000       0x38 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-setvbuf.o)
+ .ARM.attributes
+                0x00000000       0x34 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-setvbuf.o)
+ .text          0x00000000       0x10 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-strlen.o)
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-strlen.o)
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-strlen.o)
+ .ARM.attributes
+                0x00000000       0x17 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-strlen.o)
+ .text          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-fflush.o)
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-fflush.o)
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-fflush.o)
+ .text.__sflush_r
+                0x00000000      0x10c c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-fflush.o)
+ .text._fflush_r
+                0x00000000       0x78 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-fflush.o)
+ .text.fflush   0x00000000       0x24 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-fflush.o)
+ .debug_frame   0x00000000       0x5c c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-fflush.o)
+ .ARM.attributes
+                0x00000000       0x34 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-fflush.o)
+ .text          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-findfp.o)
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-findfp.o)
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-findfp.o)
+ .text.std      0x00000000       0x48 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-findfp.o)
+ .text._cleanup_r
+                0x00000000        0xc c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-findfp.o)
+ .text.__fp_lock
+                0x00000000       0x18 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-findfp.o)
+ .text.__fp_unlock
+                0x00000000       0x18 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-findfp.o)
+ .text.__sfmoreglue
+                0x00000000       0x2c c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-findfp.o)
+ .text._cleanup
+                0x00000000        0xc c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-findfp.o)
+ .text.__sfp_lock_acquire
+                0x00000000        0xc c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-findfp.o)
+ .text.__sfp_lock_release
+                0x00000000        0xc c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-findfp.o)
+ .text.__sinit_lock_acquire
+                0x00000000        0xc c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-findfp.o)
+ .text.__sinit_lock_release
+                0x00000000        0xc c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-findfp.o)
+ .text.__sinit  0x00000000       0x70 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-findfp.o)
+ .text.__sfp    0x00000000       0x8c c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-findfp.o)
+ .text.__fp_lock_all
+                0x00000000       0x1c c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-findfp.o)
+ .text.__fp_unlock_all
+                0x00000000       0x1c c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-findfp.o)
+ .rodata.__sf_fake_stderr
+                0x00000000       0x20 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-findfp.o)
+ .rodata.__sf_fake_stdin
+                0x00000000       0x20 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-findfp.o)
+ .rodata.__sf_fake_stdout
+                0x00000000       0x20 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-findfp.o)
+ .debug_frame   0x00000000      0x14c c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-findfp.o)
+ .ARM.attributes
+                0x00000000       0x34 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-findfp.o)
+ .text          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-fwalk.o)
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-fwalk.o)
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-fwalk.o)
+ .text._fwalk   0x00000000       0x3a c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-fwalk.o)
+ .text._fwalk_reent
+                0x00000000       0x3e c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-fwalk.o)
+ .debug_frame   0x00000000       0x54 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-fwalk.o)
+ .ARM.attributes
+                0x00000000       0x34 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-fwalk.o)
+ .text          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-lock.o)
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-lock.o)
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_init
+                0x00000000        0x2 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_init_recursive
+                0x00000000        0x2 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_close
+                0x00000000        0x2 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_close_recursive
+                0x00000000        0x2 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_acquire
+                0x00000000        0x2 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_acquire_recursive
+                0x00000000        0x2 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_try_acquire
+                0x00000000        0x4 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_try_acquire_recursive
+                0x00000000        0x4 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_release
+                0x00000000        0x2 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_release_recursive
+                0x00000000        0x2 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-lock.o)
+ .bss.__lock___arc4random_mutex
+                0x00000000        0x1 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-lock.o)
+ .bss.__lock___at_quick_exit_mutex
+                0x00000000        0x1 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-lock.o)
+ .bss.__lock___atexit_recursive_mutex
+                0x00000000        0x1 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-lock.o)
+ .bss.__lock___dd_hash_mutex
+                0x00000000        0x1 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-lock.o)
+ .bss.__lock___env_recursive_mutex
+                0x00000000        0x1 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-lock.o)
+ .bss.__lock___malloc_recursive_mutex
+                0x00000000        0x1 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-lock.o)
+ .bss.__lock___sfp_recursive_mutex
+                0x00000000        0x1 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-lock.o)
+ .bss.__lock___sinit_recursive_mutex
+                0x00000000        0x1 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-lock.o)
+ .bss.__lock___tz_mutex
+                0x00000000        0x1 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-lock.o)
+ .debug_frame   0x00000000       0xb0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-lock.o)
+ .ARM.attributes
+                0x00000000       0x34 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-lock.o)
+ .text          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-makebuf.o)
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-makebuf.o)
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-makebuf.o)
+ .text.__swhatbuf_r
+                0x00000000       0x4a c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-makebuf.o)
+ .text.__smakebuf_r
+                0x00000000       0x80 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-makebuf.o)
+ .debug_frame   0x00000000       0x58 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-makebuf.o)
+ .ARM.attributes
+                0x00000000       0x34 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-makebuf.o)
+ .text          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-malloc.o)
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-malloc.o)
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-malloc.o)
+ .text.malloc   0x00000000       0x10 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-malloc.o)
+ .text.free     0x00000000       0x10 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-malloc.o)
+ .debug_frame   0x00000000       0x30 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-malloc.o)
+ .ARM.attributes
+                0x00000000       0x34 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-malloc.o)
+ .text          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-nano-freer.o)
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-nano-freer.o)
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-nano-freer.o)
+ .text._free_r  0x00000000       0x98 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-nano-freer.o)
+ .debug_frame   0x00000000       0x38 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-nano-freer.o)
+ .ARM.attributes
+                0x00000000       0x34 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-nano-freer.o)
+ .text          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-nano-mallocr.o)
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-nano-mallocr.o)
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-nano-mallocr.o)
+ .text.sbrk_aligned
+                0x00000000       0x40 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-nano-mallocr.o)
+ .text._malloc_r
+                0x00000000       0xe8 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-nano-mallocr.o)
+ .bss.__malloc_free_list
+                0x00000000        0x4 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-nano-mallocr.o)
+ .bss.__malloc_sbrk_start
+                0x00000000        0x4 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-nano-mallocr.o)
+ .debug_frame   0x00000000       0x4c c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-nano-mallocr.o)
+ .ARM.attributes
+                0x00000000       0x34 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-nano-mallocr.o)
+ .text          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-sbrkr.o)
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-sbrkr.o)
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-sbrkr.o)
+ .text._sbrk_r  0x00000000       0x20 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-sbrkr.o)
+ .debug_frame   0x00000000       0x2c c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-sbrkr.o)
+ .ARM.attributes
+                0x00000000       0x34 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-sbrkr.o)
+ .text          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-stdio.o)
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-stdio.o)
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-stdio.o)
+ .text.__sread  0x00000000       0x22 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-stdio.o)
+ .text.__seofread
+                0x00000000        0x4 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-stdio.o)
+ .text.__swrite
+                0x00000000       0x38 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-stdio.o)
+ .text.__sseek  0x00000000       0x24 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-stdio.o)
+ .text.__sclose
+                0x00000000        0x8 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-stdio.o)
+ .debug_frame   0x00000000       0x88 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-stdio.o)
+ .ARM.attributes
+                0x00000000       0x34 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-stdio.o)
+ .text          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-writer.o)
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-writer.o)
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-writer.o)
+ .text._write_r
+                0x00000000       0x24 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-writer.o)
+ .debug_frame   0x00000000       0x2c c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-writer.o)
+ .ARM.attributes
+                0x00000000       0x34 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-writer.o)
+ .text          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-closer.o)
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-closer.o)
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-closer.o)
+ .text._close_r
+                0x00000000       0x20 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-closer.o)
+ .debug_frame   0x00000000       0x2c c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-closer.o)
+ .ARM.attributes
+                0x00000000       0x34 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-closer.o)
+ .text          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-fstatr.o)
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-fstatr.o)
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-fstatr.o)
+ .text._fstat_r
+                0x00000000       0x24 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-fstatr.o)
+ .debug_frame   0x00000000       0x2c c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-fstatr.o)
+ .ARM.attributes
+                0x00000000       0x34 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-fstatr.o)
+ .text          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-isattyr.o)
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-isattyr.o)
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-isattyr.o)
+ .text._isatty_r
+                0x00000000       0x20 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-isattyr.o)
+ .debug_frame   0x00000000       0x2c c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-isattyr.o)
+ .ARM.attributes
+                0x00000000       0x34 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-isattyr.o)
+ .text          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-lseekr.o)
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-lseekr.o)
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-lseekr.o)
+ .text._lseek_r
+                0x00000000       0x24 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-lseekr.o)
+ .debug_frame   0x00000000       0x2c c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-lseekr.o)
+ .ARM.attributes
+                0x00000000       0x34 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-lseekr.o)
+ .text          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-mlock.o)
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-mlock.o)
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-mlock.o)
+ .text.__malloc_lock
+                0x00000000        0xc c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-mlock.o)
+ .text.__malloc_unlock
+                0x00000000        0xc c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-mlock.o)
+ .debug_frame   0x00000000       0x30 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-mlock.o)
+ .ARM.attributes
+                0x00000000       0x34 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-mlock.o)
+ .text          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-readr.o)
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-readr.o)
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-readr.o)
+ .text._read_r  0x00000000       0x24 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-readr.o)
+ .debug_frame   0x00000000       0x2c c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-readr.o)
+ .ARM.attributes
+                0x00000000       0x34 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-readr.o)
+ .text          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-reent.o)
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-reent.o)
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-reent.o)
+ .text.cleanup_glue
+                0x00000000       0x1a c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-reent.o)
+ .text._reclaim_reent
+                0x00000000       0xb8 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-reent.o)
+ .bss.errno     0x00000000        0x4 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-reent.o)
+ .debug_frame   0x00000000       0x5c c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-reent.o)
+ .ARM.attributes
+                0x00000000       0x34 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-reent.o)
+ .text          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtend.o
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtend.o
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtend.o
+ .rodata        0x00000000       0x24 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtend.o
+ .eh_frame      0x00000000        0x4 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtend.o
+ .ARM.attributes
+                0x00000000       0x34 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtend.o
+ .text          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtn.o
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtn.o
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x08000000         0x003f0000         xr
+RAM              0x20000000         0x00060000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crti.o
+LOAD c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+LOAD c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+LOAD project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/main.c.obj
+LOAD project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/at32f435_437_board.c.obj
+LOAD project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/at32f435_437_clock.c.obj
+LOAD project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/at32f435_437_int.c.obj
+LOAD project/CMakeFiles/AT32F435_LedToggle.elf.dir/rttview/SEGGER_RTT.c.obj
+LOAD project/CMakeFiles/AT32F435_LedToggle.elf.dir/rttview/SEGGER_RTT_printf.c.obj
+LOAD common/libcommon.a
+START GROUP
+LOAD c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a
+LOAD c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a
+LOAD c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a
+END GROUP
+START GROUP
+LOAD c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a
+LOAD c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a
+END GROUP
+LOAD c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtend.o
+LOAD c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtn.o
+                0x20060000                _estack = 0x20060000
+                0x00000200                _Min_Heap_Size = 0x200
+                0x00000400                _Min_Stack_Size = 0x400
+
+.isr_vector     0x08000000      0x20c
+                0x08000000                . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x08000000      0x20c common/libcommon.a(startup_at32f435_437.s.obj)
+                0x08000000                g_pfnVectors
+                0x0800020c                . = ALIGN (0x4)
+
+.text           0x0800020c      0x9fc
+                0x0800020c                . = ALIGN (0x4)
+ *(.text)
+ .text          0x0800020c       0x40 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .text          0x0800024c       0x30 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_uldivmod.o)
+                0x0800024c                __aeabi_uldivmod
+ .text          0x0800027c      0x2d0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
+                0x0800027c                __udivmoddi4
+ .text          0x0800054c        0x4 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_dvmd_tls.o)
+                0x0800054c                __aeabi_idiv0
+                0x0800054c                __aeabi_ldiv0
+ *(.text*)
+ .text.startup.main
+                0x08000550       0x1c project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/main.c.obj
+                0x08000550                main
+ .text.at32_board_init
+                0x0800056c       0xe8 project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/at32f435_437_board.c.obj
+                0x0800056c                at32_board_init
+ .text.at32_led_toggle
+                0x08000654       0x24 project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/at32f435_437_board.c.obj
+                0x08000654                at32_led_toggle
+ .text.delay_ms
+                0x08000678       0x58 project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/at32f435_437_board.c.obj
+                0x08000678                delay_ms
+ .text.system_clock_config
+                0x080006d0       0x94 project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/at32f435_437_clock.c.obj
+                0x080006d0                system_clock_config
+ .text.NMI_Handler
+                0x08000764        0x4 project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/at32f435_437_int.c.obj
+                0x08000764                NMI_Handler
+ .text.HardFault_Handler
+                0x08000768        0x4 project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/at32f435_437_int.c.obj
+                0x08000768                HardFault_Handler
+ .text.MemManage_Handler
+                0x0800076c        0x4 project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/at32f435_437_int.c.obj
+                0x0800076c                MemManage_Handler
+ .text.BusFault_Handler
+                0x08000770        0x4 project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/at32f435_437_int.c.obj
+                0x08000770                BusFault_Handler
+ .text.UsageFault_Handler
+                0x08000774        0x4 project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/at32f435_437_int.c.obj
+                0x08000774                UsageFault_Handler
+ .text.SVC_Handler
+                0x08000778        0x4 project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/at32f435_437_int.c.obj
+                0x08000778                SVC_Handler
+ .text.DebugMon_Handler
+                0x0800077c        0x4 project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/at32f435_437_int.c.obj
+                0x0800077c                DebugMon_Handler
+ .text.PendSV_Handler
+                0x08000780        0x4 project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/at32f435_437_int.c.obj
+                0x08000780                PendSV_Handler
+ .text.SysTick_Handler
+                0x08000784        0x4 project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/at32f435_437_int.c.obj
+                0x08000784                SysTick_Handler
+ .text.SystemInit
+                0x08000788       0x6c common/libcommon.a(system_at32f435_437.c.obj)
+                0x08000788                SystemInit
+ .text.system_core_clock_update
+                0x080007f4       0xb4 common/libcommon.a(system_at32f435_437.c.obj)
+                0x080007f4                system_core_clock_update
+ .text.Reset_Handler
+                0x080008a8       0x48 common/libcommon.a(startup_at32f435_437.s.obj)
+                0x080008a8                Reset_Handler
+ .text.Default_Handler
+                0x080008f0        0x2 common/libcommon.a(startup_at32f435_437.s.obj)
+                0x080008f0                SDIO1_IRQHandler
+                0x080008f0                XMC_IRQHandler
+                0x080008f0                EXINT2_IRQHandler
+                0x080008f0                TMR20_TRG_HALL_IRQHandler
+                0x080008f0                UART8_IRQHandler
+                0x080008f0                SPI4_IRQHandler
+                0x080008f0                I2C2_EVT_IRQHandler
+                0x080008f0                TMR20_CH_IRQHandler
+                0x080008f0                TMR1_OVF_TMR10_IRQHandler
+                0x080008f0                TMR8_TRG_HALL_TMR14_IRQHandler
+                0x080008f0                I2C1_ERR_IRQHandler
+                0x080008f0                EXINT9_5_IRQHandler
+                0x080008f0                TAMP_STAMP_IRQHandler
+                0x080008f0                EMAC_IRQHandler
+                0x080008f0                EDMA_Stream7_IRQHandler
+                0x080008f0                CAN2_RX1_IRQHandler
+                0x080008f0                TMR5_GLOBAL_IRQHandler
+                0x080008f0                TMR20_OVF_IRQHandler
+                0x080008f0                EDMA_Stream2_IRQHandler
+                0x080008f0                CAN1_RX0_IRQHandler
+                0x080008f0                FPU_IRQHandler
+                0x080008f0                EDMA_Stream3_IRQHandler
+                0x080008f0                SDIO2_IRQHandler
+                0x080008f0                OTGFS2_IRQHandler
+                0x080008f0                SPI1_IRQHandler
+                0x080008f0                TMR6_DAC_GLOBAL_IRQHandler
+                0x080008f0                CAN2_RX0_IRQHandler
+                0x080008f0                OTGFS1_IRQHandler
+                0x080008f0                DMA2_Channel2_IRQHandler
+                0x080008f0                DMA1_Channel4_IRQHandler
+                0x080008f0                TMR8_CH_IRQHandler
+                0x080008f0                EDMA_Stream4_IRQHandler
+                0x080008f0                USART6_IRQHandler
+                0x080008f0                EXINT0_IRQHandler
+                0x080008f0                USART3_IRQHandler
+                0x080008f0                DMA1_Channel7_IRQHandler
+                0x080008f0                CAN1_RX1_IRQHandler
+                0x080008f0                DVP_IRQHandler
+                0x080008f0                UART5_IRQHandler
+                0x080008f0                ACC_IRQHandler
+                0x080008f0                DMAMUX_IRQHandler
+                0x080008f0                EMAC_WKUP_IRQHandler
+                0x080008f0                DMA2_Channel1_IRQHandler
+                0x080008f0                OTGFS2_WKUP_IRQHandler
+                0x080008f0                EXINT3_IRQHandler
+                0x080008f0                DMA1_Channel6_IRQHandler
+                0x080008f0                UART4_IRQHandler
+                0x080008f0                DMA2_Channel4_IRQHandler
+                0x080008f0                ERTCAlarm_IRQHandler
+                0x080008f0                DMA1_Channel1_IRQHandler
+                0x080008f0                Default_Handler
+                0x080008f0                DMA2_Channel7_IRQHandler
+                0x080008f0                TMR20_BRK_IRQHandler
+                0x080008f0                QSPI1_IRQHandler
+                0x080008f0                TMR3_GLOBAL_IRQHandler
+                0x080008f0                TMR7_GLOBAL_IRQHandler
+                0x080008f0                CAN1_SE_IRQHandler
+                0x080008f0                CAN2_TX_IRQHandler
+                0x080008f0                I2C3_ERR_IRQHandler
+                0x080008f0                SPI3_I2S3EXT_IRQHandler
+                0x080008f0                TMR1_BRK_TMR9_IRQHandler
+                0x080008f0                TMR8_BRK_TMR12_IRQHandler
+                0x080008f0                TMR1_TRG_HALL_TMR11_IRQHandler
+                0x080008f0                CAN1_TX_IRQHandler
+                0x080008f0                DMA2_Channel5_IRQHandler
+                0x080008f0                DMA1_Channel5_IRQHandler
+                0x080008f0                EDMA_Stream6_IRQHandler
+                0x080008f0                QSPI2_IRQHandler
+                0x080008f0                TMR4_GLOBAL_IRQHandler
+                0x080008f0                EXINT4_IRQHandler
+                0x080008f0                CAN2_SE_IRQHandler
+                0x080008f0                PVM_IRQHandler
+                0x080008f0                I2C3_EVT_IRQHandler
+                0x080008f0                DMA1_Channel3_IRQHandler
+                0x080008f0                I2C1_EVT_IRQHandler
+                0x080008f0                TMR8_OVF_TMR13_IRQHandler
+                0x080008f0                DMA2_Channel6_IRQHandler
+                0x080008f0                EDMA_Stream5_IRQHandler
+                0x080008f0                EDMA_Stream1_IRQHandler
+                0x080008f0                EXINT1_IRQHandler
+                0x080008f0                UART7_IRQHandler
+                0x080008f0                USART2_IRQHandler
+                0x080008f0                DMA1_Channel2_IRQHandler
+                0x080008f0                TMR2_GLOBAL_IRQHandler
+                0x080008f0                ERTC_WKUP_IRQHandler
+                0x080008f0                FLASH_IRQHandler
+                0x080008f0                SPI2_I2S2EXT_IRQHandler
+                0x080008f0                I2C2_ERR_IRQHandler
+                0x080008f0                USART1_IRQHandler
+                0x080008f0                TMR1_CH_IRQHandler
+                0x080008f0                CRM_IRQHandler
+                0x080008f0                EDMA_Stream8_IRQHandler
+                0x080008f0                OTGFS1_WKUP_IRQHandler
+                0x080008f0                EXINT15_10_IRQHandler
+                0x080008f0                ADC1_2_3_IRQHandler
+                0x080008f0                WWDT_IRQHandler
+                0x080008f0                DMA2_Channel3_IRQHandler
+ *fill*         0x080008f2        0x2 
+ .text.crm_reset
+                0x080008f4       0x54 common/libcommon.a(at32f435_437_crm.c.obj)
+                0x080008f4                crm_reset
+ .text.crm_flag_get
+                0x08000948       0x24 common/libcommon.a(at32f435_437_crm.c.obj)
+                0x08000948                crm_flag_get
+ .text.crm_hext_stable_wait
+                0x0800096c       0x2c common/libcommon.a(at32f435_437_crm.c.obj)
+                0x0800096c                crm_hext_stable_wait
+ .text.crm_periph_clock_enable
+                0x08000998       0x2c common/libcommon.a(at32f435_437_crm.c.obj)
+                0x08000998                crm_periph_clock_enable
+ .text.crm_clock_source_enable
+                0x080009c4       0x50 common/libcommon.a(at32f435_437_crm.c.obj)
+                0x080009c4                crm_clock_source_enable
+ .text.crm_ahb_div_set
+                0x08000a14       0x10 common/libcommon.a(at32f435_437_crm.c.obj)
+                0x08000a14                crm_ahb_div_set
+ .text.crm_apb1_div_set
+                0x08000a24       0x10 common/libcommon.a(at32f435_437_crm.c.obj)
+                0x08000a24                crm_apb1_div_set
+ .text.crm_apb2_div_set
+                0x08000a34       0x10 common/libcommon.a(at32f435_437_crm.c.obj)
+                0x08000a34                crm_apb2_div_set
+ .text.crm_auto_step_mode_enable
+                0x08000a44       0x28 common/libcommon.a(at32f435_437_crm.c.obj)
+                0x08000a44                crm_auto_step_mode_enable
+ .text.crm_pll_config
+                0x08000a6c       0x3c common/libcommon.a(at32f435_437_crm.c.obj)
+                0x08000a6c                crm_pll_config
+ .text.crm_sysclk_switch
+                0x08000aa8       0x38 common/libcommon.a(at32f435_437_crm.c.obj)
+                0x08000aa8                crm_sysclk_switch
+ .text.crm_sysclk_switch_status_get
+                0x08000ae0       0x10 common/libcommon.a(at32f435_437_crm.c.obj)
+                0x08000ae0                crm_sysclk_switch_status_get
+ .text.gpio_init
+                0x08000af0       0x90 common/libcommon.a(at32f435_437_gpio.c.obj)
+                0x08000af0                gpio_init
+ .text.gpio_default_para_init
+                0x08000b80       0x10 common/libcommon.a(at32f435_437_gpio.c.obj)
+                0x08000b80                gpio_default_para_init
+ .text.systick_clock_source_config
+                0x08000b90       0x18 common/libcommon.a(at32f435_437_misc.c.obj)
+                0x08000b90                systick_clock_source_config
+ .text.__libc_init_array
+                0x08000ba8       0x48 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-init.o)
+                0x08000ba8                __libc_init_array
+ *(.glue_7)
+ .glue_7        0x08000bf0        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x08000bf0        0x0 linker stubs
+ *(.eh_frame)
+ .eh_frame      0x08000bf0        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ *(.init)
+ .init          0x08000bf0        0x4 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crti.o
+                0x08000bf0                _init
+ .init          0x08000bf4        0x8 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtn.o
+ *(.fini)
+ .fini          0x08000bfc        0x4 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crti.o
+                0x08000bfc                _fini
+ .fini          0x08000c00        0x8 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtn.o
+                0x08000c08                . = ALIGN (0x4)
+                0x08000c08                _etext = .
+
+.vfp11_veneer   0x08000c08        0x0
+ .vfp11_veneer  0x08000c08        0x0 linker stubs
+
+.v4_bx          0x08000c08        0x0
+ .v4_bx         0x08000c08        0x0 linker stubs
+
+.iplt           0x08000c08        0x0
+ .iplt          0x08000c08        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+
+.rodata         0x08000c08       0x18
+                0x08000c08                . = ALIGN (0x4)
+ *(.rodata)
+ *(.rodata*)
+ .rodata.pll_fr_table.1
+                0x08000c08        0x6 common/libcommon.a(system_at32f435_437.c.obj)
+ *fill*         0x08000c0e        0x2 
+ .rodata.sys_ahb_div_table.0
+                0x08000c10       0x10 common/libcommon.a(system_at32f435_437.c.obj)
+                0x08000c20                . = ALIGN (0x4)
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+
+.ARM            0x08000c20        0x8
+                0x08000c20                __exidx_start = .
+ *(.ARM.exidx*)
+ .ARM.exidx     0x08000c20        0x8 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
+                0x08000c28                __exidx_end = .
+
+.rel.dyn        0x08000c28        0x0
+ .rel.iplt      0x08000c28        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+
+.preinit_array  0x08000c28        0x0
+                0x08000c28                PROVIDE (__preinit_array_start = .)
+ *(.preinit_array*)
+                0x08000c28                PROVIDE (__preinit_array_end = .)
+
+.init_array     0x08000c28        0x4
+                0x08000c28                PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ *(.init_array*)
+ .init_array    0x08000c28        0x4 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+                0x08000c2c                PROVIDE (__init_array_end = .)
+
+.fini_array     0x08000c2c        0x4
+                [!provide]                PROVIDE (__fini_array_start = .)
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array*)
+ .fini_array    0x08000c2c        0x4 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+                [!provide]                PROVIDE (__fini_array_end = .)
+                0x08000c30                _sidata = LOADADDR (.data)
+
+.data           0x20000000       0x24 load address 0x08000c30
+                0x20000000                . = ALIGN (0x4)
+                0x20000000                _sdata = .
+ *(.data)
+ *(.data*)
+ .data.led_gpio_crm_clk
+                0x20000000        0xc project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/at32f435_437_board.c.obj
+                0x20000000                led_gpio_crm_clk
+ .data.led_gpio_pin
+                0x2000000c        0x6 project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/at32f435_437_board.c.obj
+                0x2000000c                led_gpio_pin
+ *fill*         0x20000012        0x2 
+ .data.led_gpio_port
+                0x20000014        0xc project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/at32f435_437_board.c.obj
+                0x20000014                led_gpio_port
+ .data.system_core_clock
+                0x20000020        0x4 common/libcommon.a(system_at32f435_437.c.obj)
+                0x20000020                system_core_clock
+                0x20000024                . = ALIGN (0x4)
+                0x20000024                _edata = .
+
+.igot.plt       0x20000024        0x0 load address 0x08000c54
+ .igot.plt      0x20000024        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+                0x20000024                . = ALIGN (0x4)
+
+.bss            0x20000024       0x24 load address 0x08000c54
+                0x20000024                _sbss = .
+                0x20000024                __bss_start__ = _sbss
+ *(.bss)
+ .bss           0x20000024       0x1c c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ *(.bss*)
+ .bss.fac_ms    0x20000040        0x4 project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/at32f435_437_board.c.obj
+ .bss.fac_us    0x20000044        0x4 project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/at32f435_437_board.c.obj
+ *(COMMON)
+                0x20000048                . = ALIGN (0x4)
+                0x20000048                _ebss = .
+                0x20000048                __bss_end__ = _ebss
+
+._user_heap_stack
+                0x20000048      0x600 load address 0x08000c54
+                0x20000048                . = ALIGN (0x8)
+                [!provide]                PROVIDE (end = .)
+                0x20000048                PROVIDE (_end = .)
+                0x20000248                . = (. + _Min_Heap_Size)
+ *fill*         0x20000048      0x200 
+                0x20000648                . = (. + _Min_Stack_Size)
+ *fill*         0x20000248      0x400 
+                0x20000648                . = ALIGN (0x8)
+
+/DISCARD/
+ libc.a(*)
+ libm.a(*)
+ libgcc.a(*)
+
+.ARM.attributes
+                0x00000000       0x30
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x1e c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crti.o
+ .ARM.attributes
+                0x0000001e       0x34 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .ARM.attributes
+                0x00000052       0x34 project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/main.c.obj
+ .ARM.attributes
+                0x00000086       0x34 project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/at32f435_437_board.c.obj
+ .ARM.attributes
+                0x000000ba       0x34 project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/at32f435_437_clock.c.obj
+ .ARM.attributes
+                0x000000ee       0x34 project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/at32f435_437_int.c.obj
+ .ARM.attributes
+                0x00000122       0x34 common/libcommon.a(system_at32f435_437.c.obj)
+ .ARM.attributes
+                0x00000156       0x21 common/libcommon.a(startup_at32f435_437.s.obj)
+ .ARM.attributes
+                0x00000177       0x34 common/libcommon.a(at32f435_437_crm.c.obj)
+ .ARM.attributes
+                0x000001ab       0x34 common/libcommon.a(at32f435_437_gpio.c.obj)
+ .ARM.attributes
+                0x000001df       0x34 common/libcommon.a(at32f435_437_misc.c.obj)
+ .ARM.attributes
+                0x00000213       0x1e c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_uldivmod.o)
+ .ARM.attributes
+                0x00000231       0x34 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
+ .ARM.attributes
+                0x00000265       0x1e c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x00000283       0x34 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-init.o)
+ .ARM.attributes
+                0x000002b7       0x1e c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtn.o
+OUTPUT(project\AT32F435_LedToggle.elf elf32-littlearm)
+LOAD linker stubs
+LOAD c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a
+LOAD c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a
+LOAD c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a
+
+.debug_info     0x00000000     0xbeca
+ .debug_info    0x00000000      0x11c project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/main.c.obj
+ .debug_info    0x0000011c     0x2f38 project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/at32f435_437_board.c.obj
+ .debug_info    0x00003054     0x14aa project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/at32f435_437_clock.c.obj
+ .debug_info    0x000044fe       0xec project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/at32f435_437_int.c.obj
+ .debug_info    0x000045ea     0x204c common/libcommon.a(system_at32f435_437.c.obj)
+ .debug_info    0x00006636       0x22 common/libcommon.a(startup_at32f435_437.s.obj)
+ .debug_info    0x00006658     0x32c7 common/libcommon.a(at32f435_437_crm.c.obj)
+ .debug_info    0x0000991f     0x1a38 common/libcommon.a(at32f435_437_gpio.c.obj)
+ .debug_info    0x0000b357      0xb73 common/libcommon.a(at32f435_437_misc.c.obj)
+
+.debug_abbrev   0x00000000     0x12d9
+ .debug_abbrev  0x00000000       0xa6 project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/main.c.obj
+ .debug_abbrev  0x000000a6      0x534 project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/at32f435_437_board.c.obj
+ .debug_abbrev  0x000005da      0x215 project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/at32f435_437_clock.c.obj
+ .debug_abbrev  0x000007ef       0x78 project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/at32f435_437_int.c.obj
+ .debug_abbrev  0x00000867      0x1c6 common/libcommon.a(system_at32f435_437.c.obj)
+ .debug_abbrev  0x00000a2d       0x12 common/libcommon.a(startup_at32f435_437.s.obj)
+ .debug_abbrev  0x00000a3f      0x386 common/libcommon.a(at32f435_437_crm.c.obj)
+ .debug_abbrev  0x00000dc5      0x296 common/libcommon.a(at32f435_437_gpio.c.obj)
+ .debug_abbrev  0x0000105b      0x27e common/libcommon.a(at32f435_437_misc.c.obj)
+
+.debug_aranges  0x00000000      0x360
+ .debug_aranges
+                0x00000000       0x20 project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/main.c.obj
+ .debug_aranges
+                0x00000020       0x90 project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/at32f435_437_board.c.obj
+ .debug_aranges
+                0x000000b0       0x20 project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/at32f435_437_clock.c.obj
+ .debug_aranges
+                0x000000d0       0x40 project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/at32f435_437_int.c.obj
+ .debug_aranges
+                0x00000110       0x28 common/libcommon.a(system_at32f435_437.c.obj)
+ .debug_aranges
+                0x00000138       0x28 common/libcommon.a(startup_at32f435_437.s.obj)
+ .debug_aranges
+                0x00000160      0x128 common/libcommon.a(at32f435_437_crm.c.obj)
+ .debug_aranges
+                0x00000288       0x88 common/libcommon.a(at32f435_437_gpio.c.obj)
+ .debug_aranges
+                0x00000310       0x50 common/libcommon.a(at32f435_437_misc.c.obj)
+
+.debug_ranges   0x00000000      0x4d0
+ .debug_ranges  0x00000000       0x10 project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/main.c.obj
+ .debug_ranges  0x00000010      0x1a8 project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/at32f435_437_board.c.obj
+ .debug_ranges  0x000001b8       0x10 project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/at32f435_437_clock.c.obj
+ .debug_ranges  0x000001c8       0x30 project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/at32f435_437_int.c.obj
+ .debug_ranges  0x000001f8       0x18 common/libcommon.a(system_at32f435_437.c.obj)
+ .debug_ranges  0x00000210       0x20 common/libcommon.a(startup_at32f435_437.s.obj)
+ .debug_ranges  0x00000230      0x150 common/libcommon.a(at32f435_437_crm.c.obj)
+ .debug_ranges  0x00000380       0x78 common/libcommon.a(at32f435_437_gpio.c.obj)
+ .debug_ranges  0x000003f8       0xd8 common/libcommon.a(at32f435_437_misc.c.obj)
+
+.debug_line     0x00000000     0x2787
+ .debug_line    0x00000000       0xd8 project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/main.c.obj
+ .debug_line    0x000000d8      0xaf0 project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/at32f435_437_board.c.obj
+ .debug_line    0x00000bc8      0x25a project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/at32f435_437_clock.c.obj
+ .debug_line    0x00000e22       0xfd project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/at32f435_437_int.c.obj
+ .debug_line    0x00000f1f      0x35b common/libcommon.a(system_at32f435_437.c.obj)
+ .debug_line    0x0000127a       0x99 common/libcommon.a(startup_at32f435_437.s.obj)
+ .debug_line    0x00001313      0xabe common/libcommon.a(at32f435_437_crm.c.obj)
+ .debug_line    0x00001dd1      0x538 common/libcommon.a(at32f435_437_gpio.c.obj)
+ .debug_line    0x00002309      0x47e common/libcommon.a(at32f435_437_misc.c.obj)
+
+.debug_str      0x00000000     0x4fcd
+ .debug_str     0x00000000      0x1ac project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/main.c.obj
+                                0x1e5 (size before relaxing)
+ .debug_str     0x000001ac     0x1717 project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/at32f435_437_board.c.obj
+                               0x1940 (size before relaxing)
+ .debug_str     0x000018c3      0x7ec project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/at32f435_437_clock.c.obj
+                                0xf46 (size before relaxing)
+ .debug_str     0x000020af       0xc9 project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/at32f435_437_int.c.obj
+                                0x21f (size before relaxing)
+ .debug_str     0x00002178      0xb50 common/libcommon.a(system_at32f435_437.c.obj)
+                                0xf02 (size before relaxing)
+ .debug_str     0x00002cc8       0x4c common/libcommon.a(startup_at32f435_437.s.obj)
+                                 0x6c (size before relaxing)
+ .debug_str     0x00002d14     0x17be common/libcommon.a(at32f435_437_crm.c.obj)
+                               0x2cbf (size before relaxing)
+ .debug_str     0x000044d2      0x178 common/libcommon.a(at32f435_437_gpio.c.obj)
+                               0x1095 (size before relaxing)
+ .debug_str     0x0000464a      0x983 common/libcommon.a(at32f435_437_misc.c.obj)
+                                0xc23 (size before relaxing)
+
+.comment        0x00000000       0x49
+ .comment       0x00000000       0x49 project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/main.c.obj
+                                 0x4a (size before relaxing)
+ .comment       0x00000049       0x4a project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/at32f435_437_board.c.obj
+ .comment       0x00000049       0x4a project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/at32f435_437_clock.c.obj
+ .comment       0x00000049       0x4a project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/at32f435_437_int.c.obj
+ .comment       0x00000049       0x4a common/libcommon.a(system_at32f435_437.c.obj)
+ .comment       0x00000049       0x4a common/libcommon.a(at32f435_437_crm.c.obj)
+ .comment       0x00000049       0x4a common/libcommon.a(at32f435_437_gpio.c.obj)
+ .comment       0x00000049       0x4a common/libcommon.a(at32f435_437_misc.c.obj)
+
+.debug_frame    0x00000000      0x7cc
+ .debug_frame   0x00000000       0x28 project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/main.c.obj
+ .debug_frame   0x00000028      0x198 project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/at32f435_437_board.c.obj
+ .debug_frame   0x000001c0       0x30 project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/at32f435_437_clock.c.obj
+ .debug_frame   0x000001f0       0xa0 project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/at32f435_437_int.c.obj
+ .debug_frame   0x00000290       0x44 common/libcommon.a(system_at32f435_437.c.obj)
+ .debug_frame   0x000002d4      0x294 common/libcommon.a(at32f435_437_crm.c.obj)
+ .debug_frame   0x00000568      0x150 common/libcommon.a(at32f435_437_gpio.c.obj)
+ .debug_frame   0x000006b8       0x88 common/libcommon.a(at32f435_437_misc.c.obj)
+ .debug_frame   0x00000740       0x2c c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_uldivmod.o)
+ .debug_frame   0x0000076c       0x34 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
+ .debug_frame   0x000007a0       0x2c c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-init.o)
+
+.debug_loc      0x00000000     0x154a
+ .debug_loc     0x00000000      0x406 project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/at32f435_437_board.c.obj
+ .debug_loc     0x00000406      0x189 common/libcommon.a(system_at32f435_437.c.obj)
+ .debug_loc     0x0000058f      0x829 common/libcommon.a(at32f435_437_crm.c.obj)
+ .debug_loc     0x00000db8      0x37a common/libcommon.a(at32f435_437_gpio.c.obj)
+ .debug_loc     0x00001132      0x418 common/libcommon.a(at32f435_437_misc.c.obj)

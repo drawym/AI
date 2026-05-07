@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "string.h": "c",
+        "compare": "cpp",
+        "type_traits": "cpp",
+        "segger_rtt.h": "c"
+    }
+}

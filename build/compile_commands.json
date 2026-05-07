@@ -1,0 +1,86 @@
+[
+{
+  "directory": "E:/DJ/MY_AT32_CMake_Build/build/common",
+  "command": "\"C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2021.10/bin/arm-none-eabi-gcc.exe\" -DAT32F435ZMT7 -IE:/DJ/MY_AT32_CMake_Build/common/cmsis -IE:/DJ/MY_AT32_CMake_Build/common/cmsis/core_support -IE:/DJ/MY_AT32_CMake_Build/common/drivers/inc -IE:/DJ/MY_AT32_CMake_Build/project/inc -mcpu=cortex-m4 -mthumb -mfpu=fpv4-sp-d16 -mfloat-abi=hard -ffunction-sections -fdata-sections -Wall -g -g -std=gnu11 -Wall -Wextra -o CMakeFiles/common.dir/cmsis/system_at32f435_437.c.obj -c E:/DJ/MY_AT32_CMake_Build/common/cmsis/system_at32f435_437.c",
+  "file": "E:/DJ/MY_AT32_CMake_Build/common/cmsis/system_at32f435_437.c",
+  "output": "common/CMakeFiles/common.dir/cmsis/system_at32f435_437.c.obj"
+},
+{
+  "directory": "E:/DJ/MY_AT32_CMake_Build/build/common",
+  "command": "\"C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2021.10/bin/arm-none-eabi-gcc.exe\" -DAT32F435ZMT7 -IE:/DJ/MY_AT32_CMake_Build/common/cmsis -IE:/DJ/MY_AT32_CMake_Build/common/cmsis/core_support -IE:/DJ/MY_AT32_CMake_Build/common/drivers/inc -IE:/DJ/MY_AT32_CMake_Build/project/inc -mcpu=cortex-m4 -mthumb -mfpu=fpv4-sp-d16 -mfloat-abi=hard -ffunction-sections -fdata-sections -Wall -g -g -Wall -Wextra -o CMakeFiles/common.dir/cmsis/startup_at32f435_437.s.obj -c E:/DJ/MY_AT32_CMake_Build/common/cmsis/startup_at32f435_437.s",
+  "file": "E:/DJ/MY_AT32_CMake_Build/common/cmsis/startup_at32f435_437.s",
+  "output": "common/CMakeFiles/common.dir/cmsis/startup_at32f435_437.s.obj"
+},
+{
+  "directory": "E:/DJ/MY_AT32_CMake_Build/build/common",
+  "command": "\"C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2021.10/bin/arm-none-eabi-gcc.exe\" -DAT32F435ZMT7 -IE:/DJ/MY_AT32_CMake_Build/common/cmsis -IE:/DJ/MY_AT32_CMake_Build/common/cmsis/core_support -IE:/DJ/MY_AT32_CMake_Build/common/drivers/inc -IE:/DJ/MY_AT32_CMake_Build/project/inc -mcpu=cortex-m4 -mthumb -mfpu=fpv4-sp-d16 -mfloat-abi=hard -ffunction-sections -fdata-sections -Wall -g -g -std=gnu11 -Wall -Wextra -o CMakeFiles/common.dir/cmsis/src/syscalls.c.obj -c E:/DJ/MY_AT32_CMake_Build/common/cmsis/src/syscalls.c",
+  "file": "E:/DJ/MY_AT32_CMake_Build/common/cmsis/src/syscalls.c",
+  "output": "common/CMakeFiles/common.dir/cmsis/src/syscalls.c.obj"
+},
+{
+  "directory": "E:/DJ/MY_AT32_CMake_Build/build/common",
+  "command": "\"C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2021.10/bin/arm-none-eabi-gcc.exe\" -DAT32F435ZMT7 -IE:/DJ/MY_AT32_CMake_Build/common/cmsis -IE:/DJ/MY_AT32_CMake_Build/common/cmsis/core_support -IE:/DJ/MY_AT32_CMake_Build/common/drivers/inc -IE:/DJ/MY_AT32_CMake_Build/project/inc -mcpu=cortex-m4 -mthumb -mfpu=fpv4-sp-d16 -mfloat-abi=hard -ffunction-sections -fdata-sections -Wall -g -g -std=gnu11 -Wall -Wextra -o CMakeFiles/common.dir/drivers/src/at32f435_437_crm.c.obj -c E:/DJ/MY_AT32_CMake_Build/common/drivers/src/at32f435_437_crm.c",
+  "file": "E:/DJ/MY_AT32_CMake_Build/common/drivers/src/at32f435_437_crm.c",
+  "output": "common/CMakeFiles/common.dir/drivers/src/at32f435_437_crm.c.obj"
+},
+{
+  "directory": "E:/DJ/MY_AT32_CMake_Build/build/common",
+  "command": "\"C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2021.10/bin/arm-none-eabi-gcc.exe\" -DAT32F435ZMT7 -IE:/DJ/MY_AT32_CMake_Build/common/cmsis -IE:/DJ/MY_AT32_CMake_Build/common/cmsis/core_support -IE:/DJ/MY_AT32_CMake_Build/common/drivers/inc -IE:/DJ/MY_AT32_CMake_Build/project/inc -mcpu=cortex-m4 -mthumb -mfpu=fpv4-sp-d16 -mfloat-abi=hard -ffunction-sections -fdata-sections -Wall -g -g -std=gnu11 -Wall -Wextra -o CMakeFiles/common.dir/drivers/src/at32f435_437_gpio.c.obj -c E:/DJ/MY_AT32_CMake_Build/common/drivers/src/at32f435_437_gpio.c",
+  "file": "E:/DJ/MY_AT32_CMake_Build/common/drivers/src/at32f435_437_gpio.c",
+  "output": "common/CMakeFiles/common.dir/drivers/src/at32f435_437_gpio.c.obj"
+},
+{
+  "directory": "E:/DJ/MY_AT32_CMake_Build/build/common",
+  "command": "\"C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2021.10/bin/arm-none-eabi-gcc.exe\" -DAT32F435ZMT7 -IE:/DJ/MY_AT32_CMake_Build/common/cmsis -IE:/DJ/MY_AT32_CMake_Build/common/cmsis/core_support -IE:/DJ/MY_AT32_CMake_Build/common/drivers/inc -IE:/DJ/MY_AT32_CMake_Build/project/inc -mcpu=cortex-m4 -mthumb -mfpu=fpv4-sp-d16 -mfloat-abi=hard -ffunction-sections -fdata-sections -Wall -g -g -std=gnu11 -Wall -Wextra -o CMakeFiles/common.dir/drivers/src/at32f435_437_usart.c.obj -c E:/DJ/MY_AT32_CMake_Build/common/drivers/src/at32f435_437_usart.c",
+  "file": "E:/DJ/MY_AT32_CMake_Build/common/drivers/src/at32f435_437_usart.c",
+  "output": "common/CMakeFiles/common.dir/drivers/src/at32f435_437_usart.c.obj"
+},
+{
+  "directory": "E:/DJ/MY_AT32_CMake_Build/build/common",
+  "command": "\"C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2021.10/bin/arm-none-eabi-gcc.exe\" -DAT32F435ZMT7 -IE:/DJ/MY_AT32_CMake_Build/common/cmsis -IE:/DJ/MY_AT32_CMake_Build/common/cmsis/core_support -IE:/DJ/MY_AT32_CMake_Build/common/drivers/inc -IE:/DJ/MY_AT32_CMake_Build/project/inc -mcpu=cortex-m4 -mthumb -mfpu=fpv4-sp-d16 -mfloat-abi=hard -ffunction-sections -fdata-sections -Wall -g -g -std=gnu11 -Wall -Wextra -o CMakeFiles/common.dir/drivers/src/at32f435_437_exint.c.obj -c E:/DJ/MY_AT32_CMake_Build/common/drivers/src/at32f435_437_exint.c",
+  "file": "E:/DJ/MY_AT32_CMake_Build/common/drivers/src/at32f435_437_exint.c",
+  "output": "common/CMakeFiles/common.dir/drivers/src/at32f435_437_exint.c.obj"
+},
+{
+  "directory": "E:/DJ/MY_AT32_CMake_Build/build/common",
+  "command": "\"C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2021.10/bin/arm-none-eabi-gcc.exe\" -DAT32F435ZMT7 -IE:/DJ/MY_AT32_CMake_Build/common/cmsis -IE:/DJ/MY_AT32_CMake_Build/common/cmsis/core_support -IE:/DJ/MY_AT32_CMake_Build/common/drivers/inc -IE:/DJ/MY_AT32_CMake_Build/project/inc -mcpu=cortex-m4 -mthumb -mfpu=fpv4-sp-d16 -mfloat-abi=hard -ffunction-sections -fdata-sections -Wall -g -g -std=gnu11 -Wall -Wextra -o CMakeFiles/common.dir/drivers/src/at32f435_437_misc.c.obj -c E:/DJ/MY_AT32_CMake_Build/common/drivers/src/at32f435_437_misc.c",
+  "file": "E:/DJ/MY_AT32_CMake_Build/common/drivers/src/at32f435_437_misc.c",
+  "output": "common/CMakeFiles/common.dir/drivers/src/at32f435_437_misc.c.obj"
+},
+{
+  "directory": "E:/DJ/MY_AT32_CMake_Build/build/project",
+  "command": "\"C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2021.10/bin/arm-none-eabi-gcc.exe\" -DAT32F435ZMT7 -DAT_START_F435_V1 -IE:/DJ/MY_AT32_CMake_Build/project/inc -IE:/DJ/MY_AT32_CMake_Build/project/rttview -IE:/DJ/MY_AT32_CMake_Build/common/cmsis -IE:/DJ/MY_AT32_CMake_Build/common/cmsis/core_support -IE:/DJ/MY_AT32_CMake_Build/common/drivers/inc -mcpu=cortex-m4 -mthumb -mfpu=fpv4-sp-d16 -mfloat-abi=hard -ffunction-sections -fdata-sections -Wall -g -g -std=gnu11 -Wall -Wextra -fno-common -o CMakeFiles/AT32F435_LedToggle.elf.dir/src/main.c.obj -c E:/DJ/MY_AT32_CMake_Build/project/src/main.c",
+  "file": "E:/DJ/MY_AT32_CMake_Build/project/src/main.c",
+  "output": "project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/main.c.obj"
+},
+{
+  "directory": "E:/DJ/MY_AT32_CMake_Build/build/project",
+  "command": "\"C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2021.10/bin/arm-none-eabi-gcc.exe\" -DAT32F435ZMT7 -DAT_START_F435_V1 -IE:/DJ/MY_AT32_CMake_Build/project/inc -IE:/DJ/MY_AT32_CMake_Build/project/rttview -IE:/DJ/MY_AT32_CMake_Build/common/cmsis -IE:/DJ/MY_AT32_CMake_Build/common/cmsis/core_support -IE:/DJ/MY_AT32_CMake_Build/common/drivers/inc -mcpu=cortex-m4 -mthumb -mfpu=fpv4-sp-d16 -mfloat-abi=hard -ffunction-sections -fdata-sections -Wall -g -g -std=gnu11 -Wall -Wextra -fno-common -o CMakeFiles/AT32F435_LedToggle.elf.dir/src/at32f435_437_board.c.obj -c E:/DJ/MY_AT32_CMake_Build/project/src/at32f435_437_board.c",
+  "file": "E:/DJ/MY_AT32_CMake_Build/project/src/at32f435_437_board.c",
+  "output": "project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/at32f435_437_board.c.obj"
+},
+{
+  "directory": "E:/DJ/MY_AT32_CMake_Build/build/project",
+  "command": "\"C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2021.10/bin/arm-none-eabi-gcc.exe\" -DAT32F435ZMT7 -DAT_START_F435_V1 -IE:/DJ/MY_AT32_CMake_Build/project/inc -IE:/DJ/MY_AT32_CMake_Build/project/rttview -IE:/DJ/MY_AT32_CMake_Build/common/cmsis -IE:/DJ/MY_AT32_CMake_Build/common/cmsis/core_support -IE:/DJ/MY_AT32_CMake_Build/common/drivers/inc -mcpu=cortex-m4 -mthumb -mfpu=fpv4-sp-d16 -mfloat-abi=hard -ffunction-sections -fdata-sections -Wall -g -g -std=gnu11 -Wall -Wextra -fno-common -o CMakeFiles/AT32F435_LedToggle.elf.dir/src/at32f435_437_clock.c.obj -c E:/DJ/MY_AT32_CMake_Build/project/src/at32f435_437_clock.c",
+  "file": "E:/DJ/MY_AT32_CMake_Build/project/src/at32f435_437_clock.c",
+  "output": "project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/at32f435_437_clock.c.obj"
+},
+{
+  "directory": "E:/DJ/MY_AT32_CMake_Build/build/project",
+  "command": "\"C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2021.10/bin/arm-none-eabi-gcc.exe\" -DAT32F435ZMT7 -DAT_START_F435_V1 -IE:/DJ/MY_AT32_CMake_Build/project/inc -IE:/DJ/MY_AT32_CMake_Build/project/rttview -IE:/DJ/MY_AT32_CMake_Build/common/cmsis -IE:/DJ/MY_AT32_CMake_Build/common/cmsis/core_support -IE:/DJ/MY_AT32_CMake_Build/common/drivers/inc -mcpu=cortex-m4 -mthumb -mfpu=fpv4-sp-d16 -mfloat-abi=hard -ffunction-sections -fdata-sections -Wall -g -g -std=gnu11 -Wall -Wextra -fno-common -o CMakeFiles/AT32F435_LedToggle.elf.dir/src/at32f435_437_int.c.obj -c E:/DJ/MY_AT32_CMake_Build/project/src/at32f435_437_int.c",
+  "file": "E:/DJ/MY_AT32_CMake_Build/project/src/at32f435_437_int.c",
+  "output": "project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/at32f435_437_int.c.obj"
+},
+{
+  "directory": "E:/DJ/MY_AT32_CMake_Build/build/project",
+  "command": "\"C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2021.10/bin/arm-none-eabi-gcc.exe\" -DAT32F435ZMT7 -DAT_START_F435_V1 -IE:/DJ/MY_AT32_CMake_Build/project/inc -IE:/DJ/MY_AT32_CMake_Build/project/rttview -IE:/DJ/MY_AT32_CMake_Build/common/cmsis -IE:/DJ/MY_AT32_CMake_Build/common/cmsis/core_support -IE:/DJ/MY_AT32_CMake_Build/common/drivers/inc -mcpu=cortex-m4 -mthumb -mfpu=fpv4-sp-d16 -mfloat-abi=hard -ffunction-sections -fdata-sections -Wall -g -g -std=gnu11 -Wall -Wextra -fno-common -o CMakeFiles/AT32F435_LedToggle.elf.dir/rttview/SEGGER_RTT.c.obj -c E:/DJ/MY_AT32_CMake_Build/project/rttview/SEGGER_RTT.c",
+  "file": "E:/DJ/MY_AT32_CMake_Build/project/rttview/SEGGER_RTT.c",
+  "output": "project/CMakeFiles/AT32F435_LedToggle.elf.dir/rttview/SEGGER_RTT.c.obj"
+},
+{
+  "directory": "E:/DJ/MY_AT32_CMake_Build/build/project",
+  "command": "\"C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2021.10/bin/arm-none-eabi-gcc.exe\" -DAT32F435ZMT7 -DAT_START_F435_V1 -IE:/DJ/MY_AT32_CMake_Build/project/inc -IE:/DJ/MY_AT32_CMake_Build/project/rttview -IE:/DJ/MY_AT32_CMake_Build/common/cmsis -IE:/DJ/MY_AT32_CMake_Build/common/cmsis/core_support -IE:/DJ/MY_AT32_CMake_Build/common/drivers/inc -mcpu=cortex-m4 -mthumb -mfpu=fpv4-sp-d16 -mfloat-abi=hard -ffunction-sections -fdata-sections -Wall -g -g -std=gnu11 -Wall -Wextra -fno-common -o CMakeFiles/AT32F435_LedToggle.elf.dir/rttview/SEGGER_RTT_printf.c.obj -c E:/DJ/MY_AT32_CMake_Build/project/rttview/SEGGER_RTT_printf.c",
+  "file": "E:/DJ/MY_AT32_CMake_Build/project/rttview/SEGGER_RTT_printf.c",
+  "output": "project/CMakeFiles/AT32F435_LedToggle.elf.dir/rttview/SEGGER_RTT_printf.c.obj"
+}
+]
