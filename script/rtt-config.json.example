@@ -1,0 +1,7 @@
+{
+  "JLinkPath": "C:\\Program Files (x86)\\SEGGER\\JLink_V698e\\JLink.exe",
+  "RTTClientPath": "C:\\Program Files (x86)\\SEGGER\\JLink_V698e\\JLinkRTTClient.exe",
+  "Device": "-AT32F435ZMT7",
+  "Interface": "SWD",
+  "Speed": 4000
+}

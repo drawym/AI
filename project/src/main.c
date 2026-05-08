@@ -15,16 +15,16 @@ int main(void)
   /* Initialize board (LEDs, buttons, delay) */
   at32_board_init();
 
-  /* Infinite loop - toggle LED2 every 500ms */
-  /* Initialize RTT */
-  SEGGER_RTT_ConfigUpBuffer(0, "Terminal", NULL, 0, SEGGER_RTT_MODE_BLOCK_IF_FIFO_FULL);
+  // // /* Infinite loop - toggle LED2 every 500ms */
+  // // /* Initialize RTT */
+  // SEGGER_RTT_ConfigUpBuffer(0, "Terminal", NULL, 0, SEGGER_RTT_MODE_BLOCK_IF_FIFO_FULL);
 
   /* Infinite loop - toggle LED2 every 2000ms */
   while (1)
   {
      // RTT 打印
-    LOG0("Hello zzh\n");
+    LOG0("Hello zzh 666\n");
     at32_led_toggle(LED2);
-    delay_ms(200);
+    delay_ms(100); //必须要100
   }
 }
