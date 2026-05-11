@@ -1,5 +1,0 @@
-device -AT32F435ZMT7
-loadbin build/bin/AT32F435_LedToggle.bin, 0x08000000
-r
-g
-q

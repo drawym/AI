@@ -788,7 +788,7 @@ LOAD c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/
                 0x08000000                g_pfnVectors
                 0x0800020c                . = ALIGN (0x4)
 
-.text           0x0800020c     0x1798
+.text           0x0800020c     0x1794
                 0x0800020c                . = ALIGN (0x4)
  *(.text)
  .text          0x0800020c       0x40 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
@@ -804,301 +804,301 @@ LOAD c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/
                 0x080005ec                __aeabi_ldiv0
  *(.text*)
  .text.startup.main
-                0x080005f0       0x44 project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/main.c.obj
+                0x080005f0       0x40 project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/main.c.obj
                 0x080005f0                main
  .text.at32_board_init
-                0x08000634       0xe8 project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/at32f435_437_board.c.obj
-                0x08000634                at32_board_init
+                0x08000630       0xe8 project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/at32f435_437_board.c.obj
+                0x08000630                at32_board_init
  .text.at32_led_toggle
-                0x0800071c       0x24 project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/at32f435_437_board.c.obj
-                0x0800071c                at32_led_toggle
+                0x08000718       0x24 project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/at32f435_437_board.c.obj
+                0x08000718                at32_led_toggle
  .text.delay_ms
-                0x08000740       0x58 project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/at32f435_437_board.c.obj
-                0x08000740                delay_ms
+                0x0800073c       0x58 project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/at32f435_437_board.c.obj
+                0x0800073c                delay_ms
  .text.system_clock_config
-                0x08000798       0x94 project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/at32f435_437_clock.c.obj
-                0x08000798                system_clock_config
+                0x08000794       0x94 project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/at32f435_437_clock.c.obj
+                0x08000794                system_clock_config
  .text.NMI_Handler
-                0x0800082c        0x4 project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/at32f435_437_int.c.obj
-                0x0800082c                NMI_Handler
+                0x08000828        0x4 project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/at32f435_437_int.c.obj
+                0x08000828                NMI_Handler
  .text.HardFault_Handler
-                0x08000830        0x4 project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/at32f435_437_int.c.obj
-                0x08000830                HardFault_Handler
+                0x0800082c        0x4 project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/at32f435_437_int.c.obj
+                0x0800082c                HardFault_Handler
  .text.MemManage_Handler
-                0x08000834        0x4 project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/at32f435_437_int.c.obj
-                0x08000834                MemManage_Handler
+                0x08000830        0x4 project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/at32f435_437_int.c.obj
+                0x08000830                MemManage_Handler
  .text.BusFault_Handler
-                0x08000838        0x4 project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/at32f435_437_int.c.obj
-                0x08000838                BusFault_Handler
+                0x08000834        0x4 project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/at32f435_437_int.c.obj
+                0x08000834                BusFault_Handler
  .text.UsageFault_Handler
-                0x0800083c        0x4 project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/at32f435_437_int.c.obj
-                0x0800083c                UsageFault_Handler
+                0x08000838        0x4 project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/at32f435_437_int.c.obj
+                0x08000838                UsageFault_Handler
  .text.SVC_Handler
-                0x08000840        0x4 project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/at32f435_437_int.c.obj
-                0x08000840                SVC_Handler
+                0x0800083c        0x4 project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/at32f435_437_int.c.obj
+                0x0800083c                SVC_Handler
  .text.DebugMon_Handler
-                0x08000844        0x4 project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/at32f435_437_int.c.obj
-                0x08000844                DebugMon_Handler
+                0x08000840        0x4 project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/at32f435_437_int.c.obj
+                0x08000840                DebugMon_Handler
  .text.PendSV_Handler
-                0x08000848        0x4 project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/at32f435_437_int.c.obj
-                0x08000848                PendSV_Handler
+                0x08000844        0x4 project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/at32f435_437_int.c.obj
+                0x08000844                PendSV_Handler
  .text.SysTick_Handler
-                0x0800084c        0x4 project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/at32f435_437_int.c.obj
-                0x0800084c                SysTick_Handler
+                0x08000848        0x4 project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/at32f435_437_int.c.obj
+                0x08000848                SysTick_Handler
  .text.SEGGER_RTT_Write
-                0x08000850      0x268 project/CMakeFiles/AT32F435_LedToggle.elf.dir/rttview/SEGGER_RTT.c.obj
-                0x08000850                SEGGER_RTT_Write
+                0x0800084c      0x268 project/CMakeFiles/AT32F435_LedToggle.elf.dir/rttview/SEGGER_RTT.c.obj
+                0x0800084c                SEGGER_RTT_Write
  .text.SEGGER_RTT_SetTerminal
-                0x08000ab8      0x190 project/CMakeFiles/AT32F435_LedToggle.elf.dir/rttview/SEGGER_RTT.c.obj
-                0x08000ab8                SEGGER_RTT_SetTerminal
+                0x08000ab4      0x190 project/CMakeFiles/AT32F435_LedToggle.elf.dir/rttview/SEGGER_RTT.c.obj
+                0x08000ab4                SEGGER_RTT_SetTerminal
  .text._PrintUnsigned
-                0x08000c48      0x1a4 project/CMakeFiles/AT32F435_LedToggle.elf.dir/rttview/SEGGER_RTT_printf.c.obj
+                0x08000c44      0x1a4 project/CMakeFiles/AT32F435_LedToggle.elf.dir/rttview/SEGGER_RTT_printf.c.obj
  .text.SEGGER_RTT_vprintf
-                0x08000dec      0x6fc project/CMakeFiles/AT32F435_LedToggle.elf.dir/rttview/SEGGER_RTT_printf.c.obj
-                0x08000dec                SEGGER_RTT_vprintf
+                0x08000de8      0x6fc project/CMakeFiles/AT32F435_LedToggle.elf.dir/rttview/SEGGER_RTT_printf.c.obj
+                0x08000de8                SEGGER_RTT_vprintf
  .text.SEGGER_RTT_printf
-                0x080014e8       0x20 project/CMakeFiles/AT32F435_LedToggle.elf.dir/rttview/SEGGER_RTT_printf.c.obj
-                0x080014e8                SEGGER_RTT_printf
+                0x080014e4       0x20 project/CMakeFiles/AT32F435_LedToggle.elf.dir/rttview/SEGGER_RTT_printf.c.obj
+                0x080014e4                SEGGER_RTT_printf
  .text.SystemInit
-                0x08001508       0x6c common/libcommon.a(system_at32f435_437.c.obj)
-                0x08001508                SystemInit
+                0x08001504       0x6c common/libcommon.a(system_at32f435_437.c.obj)
+                0x08001504                SystemInit
  .text.system_core_clock_update
-                0x08001574       0xb4 common/libcommon.a(system_at32f435_437.c.obj)
-                0x08001574                system_core_clock_update
+                0x08001570       0xb4 common/libcommon.a(system_at32f435_437.c.obj)
+                0x08001570                system_core_clock_update
  .text.Reset_Handler
-                0x08001628       0x48 common/libcommon.a(startup_at32f435_437.s.obj)
-                0x08001628                Reset_Handler
+                0x08001624       0x48 common/libcommon.a(startup_at32f435_437.s.obj)
+                0x08001624                Reset_Handler
  .text.Default_Handler
-                0x08001670        0x2 common/libcommon.a(startup_at32f435_437.s.obj)
-                0x08001670                SDIO1_IRQHandler
-                0x08001670                XMC_IRQHandler
-                0x08001670                EXINT2_IRQHandler
-                0x08001670                TMR20_TRG_HALL_IRQHandler
-                0x08001670                UART8_IRQHandler
-                0x08001670                SPI4_IRQHandler
-                0x08001670                I2C2_EVT_IRQHandler
-                0x08001670                TMR20_CH_IRQHandler
-                0x08001670                TMR1_OVF_TMR10_IRQHandler
-                0x08001670                TMR8_TRG_HALL_TMR14_IRQHandler
-                0x08001670                I2C1_ERR_IRQHandler
-                0x08001670                EXINT9_5_IRQHandler
-                0x08001670                TAMP_STAMP_IRQHandler
-                0x08001670                EMAC_IRQHandler
-                0x08001670                EDMA_Stream7_IRQHandler
-                0x08001670                CAN2_RX1_IRQHandler
-                0x08001670                TMR5_GLOBAL_IRQHandler
-                0x08001670                TMR20_OVF_IRQHandler
-                0x08001670                EDMA_Stream2_IRQHandler
-                0x08001670                CAN1_RX0_IRQHandler
-                0x08001670                FPU_IRQHandler
-                0x08001670                EDMA_Stream3_IRQHandler
-                0x08001670                SDIO2_IRQHandler
-                0x08001670                OTGFS2_IRQHandler
-                0x08001670                SPI1_IRQHandler
-                0x08001670                TMR6_DAC_GLOBAL_IRQHandler
-                0x08001670                CAN2_RX0_IRQHandler
-                0x08001670                OTGFS1_IRQHandler
-                0x08001670                DMA2_Channel2_IRQHandler
-                0x08001670                DMA1_Channel4_IRQHandler
-                0x08001670                TMR8_CH_IRQHandler
-                0x08001670                EDMA_Stream4_IRQHandler
-                0x08001670                USART6_IRQHandler
-                0x08001670                EXINT0_IRQHandler
-                0x08001670                USART3_IRQHandler
-                0x08001670                DMA1_Channel7_IRQHandler
-                0x08001670                CAN1_RX1_IRQHandler
-                0x08001670                DVP_IRQHandler
-                0x08001670                UART5_IRQHandler
-                0x08001670                ACC_IRQHandler
-                0x08001670                DMAMUX_IRQHandler
-                0x08001670                EMAC_WKUP_IRQHandler
-                0x08001670                DMA2_Channel1_IRQHandler
-                0x08001670                OTGFS2_WKUP_IRQHandler
-                0x08001670                EXINT3_IRQHandler
-                0x08001670                DMA1_Channel6_IRQHandler
-                0x08001670                UART4_IRQHandler
-                0x08001670                DMA2_Channel4_IRQHandler
-                0x08001670                ERTCAlarm_IRQHandler
-                0x08001670                DMA1_Channel1_IRQHandler
-                0x08001670                Default_Handler
-                0x08001670                DMA2_Channel7_IRQHandler
-                0x08001670                TMR20_BRK_IRQHandler
-                0x08001670                QSPI1_IRQHandler
-                0x08001670                TMR3_GLOBAL_IRQHandler
-                0x08001670                TMR7_GLOBAL_IRQHandler
-                0x08001670                CAN1_SE_IRQHandler
-                0x08001670                CAN2_TX_IRQHandler
-                0x08001670                I2C3_ERR_IRQHandler
-                0x08001670                SPI3_I2S3EXT_IRQHandler
-                0x08001670                TMR1_BRK_TMR9_IRQHandler
-                0x08001670                TMR8_BRK_TMR12_IRQHandler
-                0x08001670                TMR1_TRG_HALL_TMR11_IRQHandler
-                0x08001670                CAN1_TX_IRQHandler
-                0x08001670                DMA2_Channel5_IRQHandler
-                0x08001670                DMA1_Channel5_IRQHandler
-                0x08001670                EDMA_Stream6_IRQHandler
-                0x08001670                QSPI2_IRQHandler
-                0x08001670                TMR4_GLOBAL_IRQHandler
-                0x08001670                EXINT4_IRQHandler
-                0x08001670                CAN2_SE_IRQHandler
-                0x08001670                PVM_IRQHandler
-                0x08001670                I2C3_EVT_IRQHandler
-                0x08001670                DMA1_Channel3_IRQHandler
-                0x08001670                I2C1_EVT_IRQHandler
-                0x08001670                TMR8_OVF_TMR13_IRQHandler
-                0x08001670                DMA2_Channel6_IRQHandler
-                0x08001670                EDMA_Stream5_IRQHandler
-                0x08001670                EDMA_Stream1_IRQHandler
-                0x08001670                EXINT1_IRQHandler
-                0x08001670                UART7_IRQHandler
-                0x08001670                USART2_IRQHandler
-                0x08001670                DMA1_Channel2_IRQHandler
-                0x08001670                TMR2_GLOBAL_IRQHandler
-                0x08001670                ERTC_WKUP_IRQHandler
-                0x08001670                FLASH_IRQHandler
-                0x08001670                SPI2_I2S2EXT_IRQHandler
-                0x08001670                I2C2_ERR_IRQHandler
-                0x08001670                USART1_IRQHandler
-                0x08001670                TMR1_CH_IRQHandler
-                0x08001670                CRM_IRQHandler
-                0x08001670                EDMA_Stream8_IRQHandler
-                0x08001670                OTGFS1_WKUP_IRQHandler
-                0x08001670                EXINT15_10_IRQHandler
-                0x08001670                ADC1_2_3_IRQHandler
-                0x08001670                WWDT_IRQHandler
-                0x08001670                DMA2_Channel3_IRQHandler
- *fill*         0x08001672        0x2 
+                0x0800166c        0x2 common/libcommon.a(startup_at32f435_437.s.obj)
+                0x0800166c                SDIO1_IRQHandler
+                0x0800166c                XMC_IRQHandler
+                0x0800166c                EXINT2_IRQHandler
+                0x0800166c                TMR20_TRG_HALL_IRQHandler
+                0x0800166c                UART8_IRQHandler
+                0x0800166c                SPI4_IRQHandler
+                0x0800166c                I2C2_EVT_IRQHandler
+                0x0800166c                TMR20_CH_IRQHandler
+                0x0800166c                TMR1_OVF_TMR10_IRQHandler
+                0x0800166c                TMR8_TRG_HALL_TMR14_IRQHandler
+                0x0800166c                I2C1_ERR_IRQHandler
+                0x0800166c                EXINT9_5_IRQHandler
+                0x0800166c                TAMP_STAMP_IRQHandler
+                0x0800166c                EMAC_IRQHandler
+                0x0800166c                EDMA_Stream7_IRQHandler
+                0x0800166c                CAN2_RX1_IRQHandler
+                0x0800166c                TMR5_GLOBAL_IRQHandler
+                0x0800166c                TMR20_OVF_IRQHandler
+                0x0800166c                EDMA_Stream2_IRQHandler
+                0x0800166c                CAN1_RX0_IRQHandler
+                0x0800166c                FPU_IRQHandler
+                0x0800166c                EDMA_Stream3_IRQHandler
+                0x0800166c                SDIO2_IRQHandler
+                0x0800166c                OTGFS2_IRQHandler
+                0x0800166c                SPI1_IRQHandler
+                0x0800166c                TMR6_DAC_GLOBAL_IRQHandler
+                0x0800166c                CAN2_RX0_IRQHandler
+                0x0800166c                OTGFS1_IRQHandler
+                0x0800166c                DMA2_Channel2_IRQHandler
+                0x0800166c                DMA1_Channel4_IRQHandler
+                0x0800166c                TMR8_CH_IRQHandler
+                0x0800166c                EDMA_Stream4_IRQHandler
+                0x0800166c                USART6_IRQHandler
+                0x0800166c                EXINT0_IRQHandler
+                0x0800166c                USART3_IRQHandler
+                0x0800166c                DMA1_Channel7_IRQHandler
+                0x0800166c                CAN1_RX1_IRQHandler
+                0x0800166c                DVP_IRQHandler
+                0x0800166c                UART5_IRQHandler
+                0x0800166c                ACC_IRQHandler
+                0x0800166c                DMAMUX_IRQHandler
+                0x0800166c                EMAC_WKUP_IRQHandler
+                0x0800166c                DMA2_Channel1_IRQHandler
+                0x0800166c                OTGFS2_WKUP_IRQHandler
+                0x0800166c                EXINT3_IRQHandler
+                0x0800166c                DMA1_Channel6_IRQHandler
+                0x0800166c                UART4_IRQHandler
+                0x0800166c                DMA2_Channel4_IRQHandler
+                0x0800166c                ERTCAlarm_IRQHandler
+                0x0800166c                DMA1_Channel1_IRQHandler
+                0x0800166c                Default_Handler
+                0x0800166c                DMA2_Channel7_IRQHandler
+                0x0800166c                TMR20_BRK_IRQHandler
+                0x0800166c                QSPI1_IRQHandler
+                0x0800166c                TMR3_GLOBAL_IRQHandler
+                0x0800166c                TMR7_GLOBAL_IRQHandler
+                0x0800166c                CAN1_SE_IRQHandler
+                0x0800166c                CAN2_TX_IRQHandler
+                0x0800166c                I2C3_ERR_IRQHandler
+                0x0800166c                SPI3_I2S3EXT_IRQHandler
+                0x0800166c                TMR1_BRK_TMR9_IRQHandler
+                0x0800166c                TMR8_BRK_TMR12_IRQHandler
+                0x0800166c                TMR1_TRG_HALL_TMR11_IRQHandler
+                0x0800166c                CAN1_TX_IRQHandler
+                0x0800166c                DMA2_Channel5_IRQHandler
+                0x0800166c                DMA1_Channel5_IRQHandler
+                0x0800166c                EDMA_Stream6_IRQHandler
+                0x0800166c                QSPI2_IRQHandler
+                0x0800166c                TMR4_GLOBAL_IRQHandler
+                0x0800166c                EXINT4_IRQHandler
+                0x0800166c                CAN2_SE_IRQHandler
+                0x0800166c                PVM_IRQHandler
+                0x0800166c                I2C3_EVT_IRQHandler
+                0x0800166c                DMA1_Channel3_IRQHandler
+                0x0800166c                I2C1_EVT_IRQHandler
+                0x0800166c                TMR8_OVF_TMR13_IRQHandler
+                0x0800166c                DMA2_Channel6_IRQHandler
+                0x0800166c                EDMA_Stream5_IRQHandler
+                0x0800166c                EDMA_Stream1_IRQHandler
+                0x0800166c                EXINT1_IRQHandler
+                0x0800166c                UART7_IRQHandler
+                0x0800166c                USART2_IRQHandler
+                0x0800166c                DMA1_Channel2_IRQHandler
+                0x0800166c                TMR2_GLOBAL_IRQHandler
+                0x0800166c                ERTC_WKUP_IRQHandler
+                0x0800166c                FLASH_IRQHandler
+                0x0800166c                SPI2_I2S2EXT_IRQHandler
+                0x0800166c                I2C2_ERR_IRQHandler
+                0x0800166c                USART1_IRQHandler
+                0x0800166c                TMR1_CH_IRQHandler
+                0x0800166c                CRM_IRQHandler
+                0x0800166c                EDMA_Stream8_IRQHandler
+                0x0800166c                OTGFS1_WKUP_IRQHandler
+                0x0800166c                EXINT15_10_IRQHandler
+                0x0800166c                ADC1_2_3_IRQHandler
+                0x0800166c                WWDT_IRQHandler
+                0x0800166c                DMA2_Channel3_IRQHandler
+ *fill*         0x0800166e        0x2 
  .text.crm_reset
-                0x08001674       0x54 common/libcommon.a(at32f435_437_crm.c.obj)
-                0x08001674                crm_reset
+                0x08001670       0x54 common/libcommon.a(at32f435_437_crm.c.obj)
+                0x08001670                crm_reset
  .text.crm_flag_get
-                0x080016c8       0x24 common/libcommon.a(at32f435_437_crm.c.obj)
-                0x080016c8                crm_flag_get
+                0x080016c4       0x24 common/libcommon.a(at32f435_437_crm.c.obj)
+                0x080016c4                crm_flag_get
  .text.crm_hext_stable_wait
-                0x080016ec       0x2c common/libcommon.a(at32f435_437_crm.c.obj)
-                0x080016ec                crm_hext_stable_wait
+                0x080016e8       0x2c common/libcommon.a(at32f435_437_crm.c.obj)
+                0x080016e8                crm_hext_stable_wait
  .text.crm_periph_clock_enable
-                0x08001718       0x2c common/libcommon.a(at32f435_437_crm.c.obj)
-                0x08001718                crm_periph_clock_enable
+                0x08001714       0x2c common/libcommon.a(at32f435_437_crm.c.obj)
+                0x08001714                crm_periph_clock_enable
  .text.crm_clock_source_enable
-                0x08001744       0x50 common/libcommon.a(at32f435_437_crm.c.obj)
-                0x08001744                crm_clock_source_enable
+                0x08001740       0x50 common/libcommon.a(at32f435_437_crm.c.obj)
+                0x08001740                crm_clock_source_enable
  .text.crm_ahb_div_set
-                0x08001794       0x10 common/libcommon.a(at32f435_437_crm.c.obj)
-                0x08001794                crm_ahb_div_set
+                0x08001790       0x10 common/libcommon.a(at32f435_437_crm.c.obj)
+                0x08001790                crm_ahb_div_set
  .text.crm_apb1_div_set
-                0x080017a4       0x10 common/libcommon.a(at32f435_437_crm.c.obj)
-                0x080017a4                crm_apb1_div_set
+                0x080017a0       0x10 common/libcommon.a(at32f435_437_crm.c.obj)
+                0x080017a0                crm_apb1_div_set
  .text.crm_apb2_div_set
-                0x080017b4       0x10 common/libcommon.a(at32f435_437_crm.c.obj)
-                0x080017b4                crm_apb2_div_set
+                0x080017b0       0x10 common/libcommon.a(at32f435_437_crm.c.obj)
+                0x080017b0                crm_apb2_div_set
  .text.crm_auto_step_mode_enable
-                0x080017c4       0x28 common/libcommon.a(at32f435_437_crm.c.obj)
-                0x080017c4                crm_auto_step_mode_enable
+                0x080017c0       0x28 common/libcommon.a(at32f435_437_crm.c.obj)
+                0x080017c0                crm_auto_step_mode_enable
  .text.crm_pll_config
-                0x080017ec       0x3c common/libcommon.a(at32f435_437_crm.c.obj)
-                0x080017ec                crm_pll_config
+                0x080017e8       0x3c common/libcommon.a(at32f435_437_crm.c.obj)
+                0x080017e8                crm_pll_config
  .text.crm_sysclk_switch
-                0x08001828       0x38 common/libcommon.a(at32f435_437_crm.c.obj)
-                0x08001828                crm_sysclk_switch
+                0x08001824       0x38 common/libcommon.a(at32f435_437_crm.c.obj)
+                0x08001824                crm_sysclk_switch
  .text.crm_sysclk_switch_status_get
-                0x08001860       0x10 common/libcommon.a(at32f435_437_crm.c.obj)
-                0x08001860                crm_sysclk_switch_status_get
+                0x0800185c       0x10 common/libcommon.a(at32f435_437_crm.c.obj)
+                0x0800185c                crm_sysclk_switch_status_get
  .text.gpio_init
-                0x08001870       0x90 common/libcommon.a(at32f435_437_gpio.c.obj)
-                0x08001870                gpio_init
+                0x0800186c       0x90 common/libcommon.a(at32f435_437_gpio.c.obj)
+                0x0800186c                gpio_init
  .text.gpio_default_para_init
-                0x08001900       0x10 common/libcommon.a(at32f435_437_gpio.c.obj)
-                0x08001900                gpio_default_para_init
+                0x080018fc       0x10 common/libcommon.a(at32f435_437_gpio.c.obj)
+                0x080018fc                gpio_default_para_init
  .text.systick_clock_source_config
-                0x08001910       0x18 common/libcommon.a(at32f435_437_misc.c.obj)
-                0x08001910                systick_clock_source_config
+                0x0800190c       0x18 common/libcommon.a(at32f435_437_misc.c.obj)
+                0x0800190c                systick_clock_source_config
  .text.__libc_init_array
-                0x08001928       0x48 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-init.o)
-                0x08001928                __libc_init_array
- .text.memcpy   0x08001970       0x1c c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-memcpy-stub.o)
-                0x08001970                memcpy
+                0x08001924       0x48 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-init.o)
+                0x08001924                __libc_init_array
+ .text.memcpy   0x0800196c       0x1c c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-memcpy-stub.o)
+                0x0800196c                memcpy
  *(.glue_7)
- .glue_7        0x0800198c        0x0 linker stubs
+ .glue_7        0x08001988        0x0 linker stubs
  *(.glue_7t)
- .glue_7t       0x0800198c        0x0 linker stubs
+ .glue_7t       0x08001988        0x0 linker stubs
  *(.eh_frame)
- .eh_frame      0x0800198c        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .eh_frame      0x08001988        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
  *(.init)
- .init          0x0800198c        0x4 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crti.o
-                0x0800198c                _init
- .init          0x08001990        0x8 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtn.o
+ .init          0x08001988        0x4 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crti.o
+                0x08001988                _init
+ .init          0x0800198c        0x8 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtn.o
  *(.fini)
- .fini          0x08001998        0x4 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crti.o
-                0x08001998                _fini
- .fini          0x0800199c        0x8 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtn.o
-                0x080019a4                . = ALIGN (0x4)
-                0x080019a4                _etext = .
+ .fini          0x08001994        0x4 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crti.o
+                0x08001994                _fini
+ .fini          0x08001998        0x8 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtn.o
+                0x080019a0                . = ALIGN (0x4)
+                0x080019a0                _etext = .
 
-.vfp11_veneer   0x080019a4        0x0
- .vfp11_veneer  0x080019a4        0x0 linker stubs
+.vfp11_veneer   0x080019a0        0x0
+ .vfp11_veneer  0x080019a0        0x0 linker stubs
 
-.v4_bx          0x080019a4        0x0
- .v4_bx         0x080019a4        0x0 linker stubs
+.v4_bx          0x080019a0        0x0
+ .v4_bx         0x080019a0        0x0 linker stubs
 
-.iplt           0x080019a4        0x0
- .iplt          0x080019a4        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+.iplt           0x080019a0        0x0
+ .iplt          0x080019a0        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
 
-.rodata         0x080019a4       0x6c
-                0x080019a4                . = ALIGN (0x4)
+.rodata         0x080019a0       0x74
+                0x080019a0                . = ALIGN (0x4)
  *(.rodata)
  *(.rodata*)
  .rodata.main.str1.4
-                0x080019a4       0x19 project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/main.c.obj
-                                 0x1d (size before relaxing)
- *fill*         0x080019bd        0x3 
+                0x080019a0       0x21 project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/main.c.obj
+                                 0x25 (size before relaxing)
+ *fill*         0x080019c1        0x3 
  .rodata.SEGGER_RTT_ReadUpBufferNoLock.str1.4
-                0x080019c0       0x17 project/CMakeFiles/AT32F435_LedToggle.elf.dir/rttview/SEGGER_RTT.c.obj
- *fill*         0x080019d7        0x1 
+                0x080019c4       0x17 project/CMakeFiles/AT32F435_LedToggle.elf.dir/rttview/SEGGER_RTT.c.obj
+ *fill*         0x080019db        0x1 
  .rodata._aTerminalId
-                0x080019d8       0x10 project/CMakeFiles/AT32F435_LedToggle.elf.dir/rttview/SEGGER_RTT.c.obj
+                0x080019dc       0x10 project/CMakeFiles/AT32F435_LedToggle.elf.dir/rttview/SEGGER_RTT.c.obj
  .rodata._aV2C.0
-                0x080019e8       0x10 project/CMakeFiles/AT32F435_LedToggle.elf.dir/rttview/SEGGER_RTT_printf.c.obj
+                0x080019ec       0x10 project/CMakeFiles/AT32F435_LedToggle.elf.dir/rttview/SEGGER_RTT_printf.c.obj
  .rodata.pll_fr_table.1
-                0x080019f8        0x6 common/libcommon.a(system_at32f435_437.c.obj)
- *fill*         0x080019fe        0x2 
+                0x080019fc        0x6 common/libcommon.a(system_at32f435_437.c.obj)
+ *fill*         0x08001a02        0x2 
  .rodata.sys_ahb_div_table.0
-                0x08001a00       0x10 common/libcommon.a(system_at32f435_437.c.obj)
-                0x08001a10                . = ALIGN (0x4)
+                0x08001a04       0x10 common/libcommon.a(system_at32f435_437.c.obj)
+                0x08001a14                . = ALIGN (0x4)
 
 .ARM.extab
  *(.ARM.extab* .gnu.linkonce.armextab.*)
 
-.ARM            0x08001a10        0x8
-                0x08001a10                __exidx_start = .
+.ARM            0x08001a14        0x8
+                0x08001a14                __exidx_start = .
  *(.ARM.exidx*)
- .ARM.exidx     0x08001a10        0x8 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
-                0x08001a18                __exidx_end = .
+ .ARM.exidx     0x08001a14        0x8 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
+                0x08001a1c                __exidx_end = .
 
-.rel.dyn        0x08001a18        0x0
- .rel.iplt      0x08001a18        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+.rel.dyn        0x08001a1c        0x0
+ .rel.iplt      0x08001a1c        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
 
-.preinit_array  0x08001a18        0x0
-                0x08001a18                PROVIDE (__preinit_array_start = .)
+.preinit_array  0x08001a1c        0x0
+                0x08001a1c                PROVIDE (__preinit_array_start = .)
  *(.preinit_array*)
-                0x08001a18                PROVIDE (__preinit_array_end = .)
+                0x08001a1c                PROVIDE (__preinit_array_end = .)
 
-.init_array     0x08001a18        0x4
-                0x08001a18                PROVIDE (__init_array_start = .)
+.init_array     0x08001a1c        0x4
+                0x08001a1c                PROVIDE (__init_array_start = .)
  *(SORT_BY_NAME(.init_array.*))
  *(.init_array*)
- .init_array    0x08001a18        0x4 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
-                0x08001a1c                PROVIDE (__init_array_end = .)
+ .init_array    0x08001a1c        0x4 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+                0x08001a20                PROVIDE (__init_array_end = .)
 
-.fini_array     0x08001a1c        0x4
+.fini_array     0x08001a20        0x4
                 [!provide]                PROVIDE (__fini_array_start = .)
  *(SORT_BY_NAME(.fini_array.*))
  *(.fini_array*)
- .fini_array    0x08001a1c        0x4 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .fini_array    0x08001a20        0x4 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
                 [!provide]                PROVIDE (__fini_array_end = .)
-                0x08001a20                _sidata = LOADADDR (.data)
+                0x08001a24                _sidata = LOADADDR (.data)
 
-.data           0x20000000       0x24 load address 0x08001a20
+.data           0x20000000       0x24 load address 0x08001a24
                 0x20000000                . = ALIGN (0x4)
                 0x20000000                _sdata = .
  *(.data)
@@ -1119,11 +1119,11 @@ LOAD c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/
                 0x20000024                . = ALIGN (0x4)
                 0x20000024                _edata = .
 
-.igot.plt       0x20000024        0x0 load address 0x08001a44
+.igot.plt       0x20000024        0x0 load address 0x08001a48
  .igot.plt      0x20000024        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
                 0x20000024                . = ALIGN (0x4)
 
-.bss            0x20000024      0x4e0 load address 0x08001a44
+.bss            0x20000024      0x4e0 load address 0x08001a48
                 0x20000024                _sbss = .
                 0x20000024                __bss_start__ = _sbss
  *(.bss)
@@ -1147,7 +1147,7 @@ LOAD c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/
                 0x20000504                __bss_end__ = _ebss
 
 ._user_heap_stack
-                0x20000504      0x604 load address 0x08001a44
+                0x20000504      0x604 load address 0x08001a48
                 0x20000508                . = ALIGN (0x8)
  *fill*         0x20000504        0x4 
                 [!provide]                PROVIDE (end = .)
@@ -1212,18 +1212,18 @@ LOAD c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../
 LOAD c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a
 LOAD c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a
 
-.debug_info     0x00000000    0x105fa
- .debug_info    0x00000000      0x175 project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/main.c.obj
- .debug_info    0x00000175     0x2f38 project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/at32f435_437_board.c.obj
- .debug_info    0x000030ad     0x14aa project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/at32f435_437_clock.c.obj
- .debug_info    0x00004557       0xec project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/at32f435_437_int.c.obj
- .debug_info    0x00004643     0x3a0a project/CMakeFiles/AT32F435_LedToggle.elf.dir/rttview/SEGGER_RTT.c.obj
- .debug_info    0x0000804d      0xccd project/CMakeFiles/AT32F435_LedToggle.elf.dir/rttview/SEGGER_RTT_printf.c.obj
- .debug_info    0x00008d1a     0x204c common/libcommon.a(system_at32f435_437.c.obj)
- .debug_info    0x0000ad66       0x22 common/libcommon.a(startup_at32f435_437.s.obj)
- .debug_info    0x0000ad88     0x32c7 common/libcommon.a(at32f435_437_crm.c.obj)
- .debug_info    0x0000e04f     0x1a38 common/libcommon.a(at32f435_437_gpio.c.obj)
- .debug_info    0x0000fa87      0xb73 common/libcommon.a(at32f435_437_misc.c.obj)
+.debug_info     0x00000000    0x105f9
+ .debug_info    0x00000000      0x174 project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/main.c.obj
+ .debug_info    0x00000174     0x2f38 project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/at32f435_437_board.c.obj
+ .debug_info    0x000030ac     0x14aa project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/at32f435_437_clock.c.obj
+ .debug_info    0x00004556       0xec project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/at32f435_437_int.c.obj
+ .debug_info    0x00004642     0x3a0a project/CMakeFiles/AT32F435_LedToggle.elf.dir/rttview/SEGGER_RTT.c.obj
+ .debug_info    0x0000804c      0xccd project/CMakeFiles/AT32F435_LedToggle.elf.dir/rttview/SEGGER_RTT_printf.c.obj
+ .debug_info    0x00008d19     0x204c common/libcommon.a(system_at32f435_437.c.obj)
+ .debug_info    0x0000ad65       0x22 common/libcommon.a(startup_at32f435_437.s.obj)
+ .debug_info    0x0000ad87     0x32c7 common/libcommon.a(at32f435_437_crm.c.obj)
+ .debug_info    0x0000e04e     0x1a38 common/libcommon.a(at32f435_437_gpio.c.obj)
+ .debug_info    0x0000fa86      0xb73 common/libcommon.a(at32f435_437_misc.c.obj)
 
 .debug_abbrev   0x00000000     0x1929
  .debug_abbrev  0x00000000       0xb9 project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/main.c.obj
