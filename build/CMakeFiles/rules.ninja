@@ -7,7 +7,7 @@
 
 # =============================================================================
 # Project: AT32F435_LedToggle
-# Configurations: Release
+# Configurations: Debug
 # =============================================================================
 # =============================================================================
 
@@ -22,7 +22,7 @@ rule CUSTOM_COMMAND
 #############################################
 # Rule for compiling ASM files.
 
-rule ASM_COMPILER__common_unscanned_Release
+rule ASM_COMPILER__common_unscanned_Debug
   depfile = $DEP_FILE
   deps = gcc
   command = ${LAUNCHER}${CODE_CHECK}C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
@@ -32,7 +32,7 @@ rule ASM_COMPILER__common_unscanned_Release
 #############################################
 # Rule for compiling C files.
 
-rule C_COMPILER__common_unscanned_Release
+rule C_COMPILER__common_unscanned_Debug
   depfile = $DEP_FILE
   deps = gcc
   command = ${LAUNCHER}${CODE_CHECK}C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
@@ -42,7 +42,7 @@ rule C_COMPILER__common_unscanned_Release
 #############################################
 # Rule for linking C static library.
 
-rule C_STATIC_LIBRARY_LINKER__common_Release
+rule C_STATIC_LIBRARY_LINKER__common_Debug
   command = cmd.exe /C "$PRE_LINK && C:\Users\Admin\AppData\Local\Programs\Python\Python311\Lib\site-packages\cmake\data\bin\cmake.exe -E rm -f $TARGET_FILE && C:\PROGRA~2\GNUARM~1\102021~1.10\bin\ARM-NO~2.EXE qc $TARGET_FILE $LINK_FLAGS $in && C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR17F9~1.EXE $TARGET_FILE && $POST_BUILD"
   description = Linking C static library $TARGET_FILE
   restat = $RESTAT
@@ -51,7 +51,7 @@ rule C_STATIC_LIBRARY_LINKER__common_Release
 #############################################
 # Rule for compiling C files.
 
-rule C_COMPILER__AT32F435_LedToggle.2eelf_unscanned_Release
+rule C_COMPILER__AT32F435_LedToggle.2eelf_unscanned_Debug
   depfile = $DEP_FILE
   deps = gcc
   command = ${LAUNCHER}${CODE_CHECK}C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
@@ -61,7 +61,7 @@ rule C_COMPILER__AT32F435_LedToggle.2eelf_unscanned_Release
 #############################################
 # Rule for linking C executable.
 
-rule C_EXECUTABLE_LINKER__AT32F435_LedToggle.2eelf_Release
+rule C_EXECUTABLE_LINKER__AT32F435_LedToggle.2eelf_Debug
   command = cmd.exe /C "$PRE_LINK && C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $FLAGS $LINK_FLAGS $in -o $TARGET_FILE $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
   description = Linking C executable $TARGET_FILE
   restat = $RESTAT

@@ -1,0 +1,20 @@
+set pagination off
+set confirm off
+file e:/DJ/MY_AT32_CMake_Build/build/project/AT32F435_LedToggle.elf
+target extended-remote :2331
+monitor reset halt
+break *0x08000612
+continue
+
+# When breakpoint hit, get info
+printf "\n========== DEBUG INFO at LOG0(666) ==========\n"
+info registers
+x/4i $pc
+display /4xw $sp
+continue
+step
+printf "\nAfter SEGGER_RTT_printf call\n"
+info registers r0 r1 r2 r3
+delete breakpoints
+detach
+quit

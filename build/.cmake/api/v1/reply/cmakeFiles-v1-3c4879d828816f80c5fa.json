@@ -1,0 +1,115 @@
+{
+	"inputs" : 
+	[
+		{
+			"path" : "CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/CMakeFiles/3.27.9/CMakeSystem.cmake"
+		},
+		{
+			"path" : "toolchain-arm-none-eabi.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/Admin/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/CMakeSystemSpecificInitialize.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/CMakeFiles/3.27.9/CMakeCCompiler.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/CMakeFiles/3.27.9/CMakeASMCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/Admin/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/CMakeSystemSpecificInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/Admin/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/CMakeGenericSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/Admin/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/CMakeInitializeConfigs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/Admin/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/Platform/Generic.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/Admin/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/CMakeCInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/Admin/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/Admin/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/Compiler/GNU-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/Admin/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/Compiler/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/Admin/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/Admin/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/Platform/Generic.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/Admin/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/Admin/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/CMakeASMInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/Admin/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/Compiler/GNU-ASM.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/Admin/AppData/Local/Programs/Python/Python311/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/Compiler/GNU.cmake"
+		},
+		{
+			"path" : "common/CMakeLists.txt"
+		},
+		{
+			"path" : "project/CMakeLists.txt"
+		}
+	],
+	"kind" : "cmakeFiles",
+	"paths" : 
+	{
+		"build" : "E:/DJ/MY_AT32_CMake_Build/build",
+		"source" : "E:/DJ/MY_AT32_CMake_Build"
+	},
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 0
+	}
+}

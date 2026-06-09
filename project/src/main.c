@@ -23,7 +23,7 @@ int main(void)
   while (1)
   {
      // RTT 打印
-    LOG0("Hello zzh nb 666\n");
+    LOG0("666\n");
     at32_led_toggle(LED2);
     delay_ms(100); //必须要100
   }

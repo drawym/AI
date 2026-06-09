@@ -1044,61 +1044,61 @@ LOAD c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/
 .iplt           0x080019a0        0x0
  .iplt          0x080019a0        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
 
-.rodata         0x080019a0       0x74
+.rodata         0x080019a0       0x68
                 0x080019a0                . = ALIGN (0x4)
  *(.rodata)
  *(.rodata*)
  .rodata.main.str1.4
-                0x080019a0       0x21 project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/main.c.obj
-                                 0x25 (size before relaxing)
- *fill*         0x080019c1        0x3 
+                0x080019a0       0x15 project/CMakeFiles/AT32F435_LedToggle.elf.dir/src/main.c.obj
+                                 0x19 (size before relaxing)
+ *fill*         0x080019b5        0x3 
  .rodata.SEGGER_RTT_ReadUpBufferNoLock.str1.4
-                0x080019c4       0x17 project/CMakeFiles/AT32F435_LedToggle.elf.dir/rttview/SEGGER_RTT.c.obj
- *fill*         0x080019db        0x1 
+                0x080019b8       0x17 project/CMakeFiles/AT32F435_LedToggle.elf.dir/rttview/SEGGER_RTT.c.obj
+ *fill*         0x080019cf        0x1 
  .rodata._aTerminalId
-                0x080019dc       0x10 project/CMakeFiles/AT32F435_LedToggle.elf.dir/rttview/SEGGER_RTT.c.obj
+                0x080019d0       0x10 project/CMakeFiles/AT32F435_LedToggle.elf.dir/rttview/SEGGER_RTT.c.obj
  .rodata._aV2C.0
-                0x080019ec       0x10 project/CMakeFiles/AT32F435_LedToggle.elf.dir/rttview/SEGGER_RTT_printf.c.obj
+                0x080019e0       0x10 project/CMakeFiles/AT32F435_LedToggle.elf.dir/rttview/SEGGER_RTT_printf.c.obj
  .rodata.pll_fr_table.1
-                0x080019fc        0x6 common/libcommon.a(system_at32f435_437.c.obj)
- *fill*         0x08001a02        0x2 
+                0x080019f0        0x6 common/libcommon.a(system_at32f435_437.c.obj)
+ *fill*         0x080019f6        0x2 
  .rodata.sys_ahb_div_table.0
-                0x08001a04       0x10 common/libcommon.a(system_at32f435_437.c.obj)
-                0x08001a14                . = ALIGN (0x4)
+                0x080019f8       0x10 common/libcommon.a(system_at32f435_437.c.obj)
+                0x08001a08                . = ALIGN (0x4)
 
 .ARM.extab
  *(.ARM.extab* .gnu.linkonce.armextab.*)
 
-.ARM            0x08001a14        0x8
-                0x08001a14                __exidx_start = .
+.ARM            0x08001a08        0x8
+                0x08001a08                __exidx_start = .
  *(.ARM.exidx*)
- .ARM.exidx     0x08001a14        0x8 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
-                0x08001a1c                __exidx_end = .
+ .ARM.exidx     0x08001a08        0x8 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
+                0x08001a10                __exidx_end = .
 
-.rel.dyn        0x08001a1c        0x0
- .rel.iplt      0x08001a1c        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+.rel.dyn        0x08001a10        0x0
+ .rel.iplt      0x08001a10        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
 
-.preinit_array  0x08001a1c        0x0
-                0x08001a1c                PROVIDE (__preinit_array_start = .)
+.preinit_array  0x08001a10        0x0
+                0x08001a10                PROVIDE (__preinit_array_start = .)
  *(.preinit_array*)
-                0x08001a1c                PROVIDE (__preinit_array_end = .)
+                0x08001a10                PROVIDE (__preinit_array_end = .)
 
-.init_array     0x08001a1c        0x4
-                0x08001a1c                PROVIDE (__init_array_start = .)
+.init_array     0x08001a10        0x4
+                0x08001a10                PROVIDE (__init_array_start = .)
  *(SORT_BY_NAME(.init_array.*))
  *(.init_array*)
- .init_array    0x08001a1c        0x4 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
-                0x08001a20                PROVIDE (__init_array_end = .)
+ .init_array    0x08001a10        0x4 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+                0x08001a14                PROVIDE (__init_array_end = .)
 
-.fini_array     0x08001a20        0x4
+.fini_array     0x08001a14        0x4
                 [!provide]                PROVIDE (__fini_array_start = .)
  *(SORT_BY_NAME(.fini_array.*))
  *(.fini_array*)
- .fini_array    0x08001a20        0x4 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .fini_array    0x08001a14        0x4 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
                 [!provide]                PROVIDE (__fini_array_end = .)
-                0x08001a24                _sidata = LOADADDR (.data)
+                0x08001a18                _sidata = LOADADDR (.data)
 
-.data           0x20000000       0x24 load address 0x08001a24
+.data           0x20000000       0x24 load address 0x08001a18
                 0x20000000                . = ALIGN (0x4)
                 0x20000000                _sdata = .
  *(.data)
@@ -1119,11 +1119,11 @@ LOAD c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/
                 0x20000024                . = ALIGN (0x4)
                 0x20000024                _edata = .
 
-.igot.plt       0x20000024        0x0 load address 0x08001a48
+.igot.plt       0x20000024        0x0 load address 0x08001a3c
  .igot.plt      0x20000024        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
                 0x20000024                . = ALIGN (0x4)
 
-.bss            0x20000024      0x4e0 load address 0x08001a48
+.bss            0x20000024      0x4e0 load address 0x08001a3c
                 0x20000024                _sbss = .
                 0x20000024                __bss_start__ = _sbss
  *(.bss)
@@ -1147,7 +1147,7 @@ LOAD c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/
                 0x20000504                __bss_end__ = _ebss
 
 ._user_heap_stack
-                0x20000504      0x604 load address 0x08001a48
+                0x20000504      0x604 load address 0x08001a3c
                 0x20000508                . = ALIGN (0x8)
  *fill*         0x20000504        0x4 
                 [!provide]                PROVIDE (end = .)

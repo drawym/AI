@@ -1,0 +1,4 @@
+h
+loadbin e:\DJ\MY_AT32_CMake_Build\build\bin\AT32F435_LedToggle.bin 0x08000000
+r
+exit

@@ -16,7 +16,7 @@ q
 
 # 调用 JLink 执行命令文件
 & "C:\Program Files (x86)\SEGGER\JLink_V698e\JLink.exe" `
--device AT32F435ZMT7 -if SWD -speed 4000 -CommandFile "temp.jlink"
+-device -AT32F435ZMT7 -if SWD -speed 4000 -CommandFile "temp.jlink"
 
 # 删除临时命令文件
 Remove-Item "temp.jlink"

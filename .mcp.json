@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "jlink": {
+      "command": "python",
+      "args": ["-m", "jlink_mcp"],
+      "env": {
+        "JLINK_SVD_DIR": "E:\DJ\MY_AT32_CMake_Build\ArteryTek.AT32F415_DFP.2.1.8\SVD",
+        "JLINK_PATCH_DIR": "",
+        "JLINK_DEFAULT_INTERFACE": "SWD"
+      }
+    }
+  }
+}
